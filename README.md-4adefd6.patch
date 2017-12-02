@@ -1,0 +1,21 @@
+From 4adefd6f38bf277b7c61fbee86b8ee5ef83af667 Mon Sep 17 00:00:00 2001
+From: Professor Coal <professorcoal@outlook.com>
+Date: Fri, 1 Dec 2017 21:09:21 -0500
+Subject: [PATCH] README.md
+
+---
+ clipboard | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 clipboard
+
+diff --git a/clipboard b/clipboard
+new file mode 100644
+index 0000000..1cd5391
+--- /dev/null
++++ b/clipboard
+@@ -0,0 +1 @@
++June15th2002
+\ No newline at end of file
+--
+Working Copy 3.0.8
+
