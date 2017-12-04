@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>
+    Open Definition 2.1 - Open Definition - Defining Open in Open Data, Open Content and Open Knowledge
+  </title>
+  <meta name="author" content="Open Knowledge Open Definition Group" />
+  <meta name="description" content="Open Definition 2.1 - Open Definition - Defining Open in Open Data, Open Content and Open Knowledge" />
+  <link rel="canonical" href="http://opendefinition.org/od/2.1/en/">
+  <!-- okf ribbon -->
+  <link rel="stylesheet" href="/assets.okfn.org/themes/okfn/okf-panel.css"/>
+
+  <link href="//netdna.bootstrapcdn.com/bootstrap/2.3.2/css/bootstrap.min.css" rel="stylesheet" />
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+  <link rel="stylesheet" href="http://okfnlabs.org/jekyll-template/css/v1/style.css" />
+  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="Open Definition" href="/feed/index.xml" />
+</head>
+<body class="">
+<!-- OKF Panel -->
+<div class="absolute-okf-panel">
+  <div id="okf-panel" class="collapse">
+    <iframe src="/assets.okfn.org/themes/okfn/okf-panel.html" scrolling="no"></iframe>
+  </div>
+  <div class="container">
+    <div class="okfn-ribbon">
+      <a href="https://okfn.org/" data-toggle="collapse" data-target="#okf-panel" title="Part of the Open Knowledge Foundation Network">An Open Knowledge Foundation Site</a>
+    </div>
+  </div>
+</div>
+<!-- End OKF Panel -->
+<div class="navbar navbar-static-top">
+  <div class="navbar-inner">
+    <div class="container">
+      <a class="brand" href="/">
+        Open Definition
+      </a>
+      <ul class="nav pull-right">
+        <li class="divider-vertical"></li>
+        <li>
+          <a href="/od/2.1/en/">The Definition</a>
+        </li>
+        <li class="divider-vertical"></li>
+        <li>
+          <a href="/licenses/">Conformant Licenses</a>
+        </li>
+        <li class="divider-vertical"></li>
+        <li>
+          <a href="/participate/">Participate</a>
+        </li>
+        <li class="divider-vertical"></li>
+        <li>
+          <a href="/update/">News</a>
+        </li>
+        <li class="divider-vertical"></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="container">
+
+  <div class="content">
+
+    <div class="row">
+      <div class="span7 main offset1">
+        
+        
+        
+        <div class="page-header">
+          <h1>
+            Open Definition 2.1
+            
+          </h1>
+        </div>
+        
+
+        <p>Version 2.1</p>
+
+<p>The Open Definition makes precise the meaning of “open” with respect to knowledge, promoting a robust commons in which anyone may participate, and interoperability is maximized.</p>
+
+<p><strong>Summary:</strong> <em>Knowledge is open if anyone is free to access, use, modify, and share it — subject, at most, to measures that preserve provenance and openness.</em></p>
+
+<p>This essential meaning matches that of “open” with respect to software as in the <a href="https://en.wikipedia.org/wiki/The_Open_Source_Definition">Open Source Definition</a> and is synonymous with “free” or “libre” as in the <a href="https://en.wikipedia.org/wiki/The_Free_Software_Definition">Free Software Definition</a> and <a href="https://en.wikipedia.org/wiki/Definition_of_Free_Cultural_Works">Definition of Free Cultural Works</a>.</p>
+
+<p>The term <strong>work</strong> will be used to denote the item or piece of knowledge being transferred.</p>
+
+<p>The term <strong>license</strong> refers to the legal conditions under which the work is provided.</p>
+
+<p>The term <strong>public domain</strong> denotes the absence of copyright and similar
+restrictions, whether by default or waiver of all such conditions.</p>
+
+<p>The key words “must”, “must not”, “should”, and “may”
+in this document are to be interpreted as described in
+<a href="https://tools.ietf.org/html/rfc2119">RFC2119</a>.</p>
+
+<h2 id="1-open-works">1. Open Works</h2>
+
+<p>An open <strong>work</strong> <em>must</em> satisfy the following requirements in its distribution:</p>
+
+<h3 id="11-open-license-or-status">1.1 Open License or Status</h3>
+
+<p>The <strong>work</strong> <em>must</em> be in the <strong>public domain</strong> or provided under an open
+<strong>license</strong> (as defined in Section 2).  Any additional terms accompanying
+the work (such as a terms of use, or patents held by the licensor)
+<em>must not</em> contradict the work’s public domain status or terms of the license.</p>
+
+<h3 id="12-access">1.2 Access</h3>
+
+<p>The <strong>work</strong> <em>must</em> be provided as a whole and at no more than a reasonable 
+one-time reproduction cost, and <em>should</em> be downloadable via the Internet without charge.
+Any additional information necessary for license compliance (such as names of 
+contributors required for compliance with attribution requirements) <em>must</em> also 
+accompany the work.</p>
+
+<h3 id="13-machine-readability">1.3 Machine Readability</h3>
+
+<p>The <strong>work</strong> <em>must</em> be provided in a form readily processable by a computer and where the individual elements of the work can be easily accessed and modified.</p>
+
+<h3 id="14-open-format">1.4 Open Format</h3>
+
+<p>The <strong>work</strong> <em>must</em> be provided in an open format. An open format is
+one which places no restrictions, monetary or otherwise, upon its use and can be fully processed
+with at least one free/libre/open-source software tool.</p>
+
+<h2 id="2-open-licenses">2. Open Licenses</h2>
+
+<p>A <strong>license</strong> <em>should</em> be compatible with other open licenses.</p>
+
+<p>A <strong>license</strong> is open if its terms satisfy the following conditions:</p>
+
+<h3 id="21-required-permissions">2.1 Required Permissions</h3>
+
+<p>The <strong>license</strong> <em>must</em> irrevocably permit (or allow) the following:</p>
+
+<h4 id="211-use">2.1.1 Use</h4>
+
+<p>The <strong>license</strong> <em>must</em> allow free use of the licensed work.</p>
+
+<h4 id="212-redistribution">2.1.2 Redistribution</h4>
+
+<p>The <strong>license</strong> <em>must</em> allow redistribution of the licensed work, 
+including sale, whether on its own or as part of a collection made from 
+works from different sources.</p>
+
+<h4 id="213-modification">2.1.3 Modification</h4>
+
+<p>The <strong>license</strong> <em>must</em> allow the creation of derivatives of the licensed 
+work and allow the distribution of such derivatives under the same
+terms of the original licensed work.</p>
+
+<h4 id="214-separation">2.1.4 Separation</h4>
+
+<p>The <strong>license</strong> <em>must</em> allow any part of the work
+to be freely used, distributed, or modified separately from any other part 
+of the work or from any collection of works in which it was originally 
+distributed. All parties who receive any distribution of any part of
+a work within the terms of the original license <em>should</em> have the same rights
+as those that are granted in conjunction with the original work.</p>
+
+<h4 id="215-compilation">2.1.5 Compilation</h4>
+
+<p>The <strong>license</strong> <em>must</em> allow the licensed work to be distributed along 
+with other distinct works without placing restrictions on these other works.</p>
+
+<h4 id="216-non-discrimination">2.1.6 Non-discrimination</h4>
+
+<p>The <strong>license</strong> <em>must not</em> discriminate against any person or group.</p>
+
+<h4 id="217-propagation">2.1.7 Propagation</h4>
+
+<p>The rights attached to the work <em>must</em> apply to all to whom it is redistributed 
+without the need to agree to any additional legal terms.</p>
+
+<h4 id="218-application-to-any-purpose">2.1.8 Application to Any Purpose</h4>
+
+<p>The <strong>license</strong> <em>must</em> allow use, redistribution, modification, and 
+compilation for any purpose. The license <em>must not</em> restrict anyone
+from making use of the work in a specific field of endeavor.</p>
+
+<h4 id="219-no-charge">2.1.9 No Charge</h4>
+
+<p>The <strong>license</strong> <em>must not</em> impose any fee arrangement, royalty, or other
+compensation or monetary remuneration as part of its conditions.</p>
+
+<h3 id="22-acceptable-conditions">2.2 Acceptable Conditions</h3>
+
+<p>The <strong>license</strong> <em>must not</em> limit, make uncertain, or otherwise diminish the permissions 
+required in Section 2.1 except by the following allowable conditions:</p>
+
+<h4 id="221-attribution">2.2.1 Attribution</h4>
+
+<p>The <strong>license</strong> <em>may</em> require distributions of the work to include attribution
+of contributors, rights holders, sponsors, and creators as long as
+any such prescriptions are not onerous.</p>
+
+<h4 id="222-integrity">2.2.2 Integrity</h4>
+
+<p>The <strong>license</strong> <em>may</em> require that modified versions of a licensed work
+carry a different name or version number from the original work or 
+otherwise indicate what changes have been made.</p>
+
+<h4 id="223-share-alike">2.2.3 Share-alike</h4>
+
+<p>The <strong>license</strong> <em>may</em> require distributions of the work to remain
+under the same license or a similar license.</p>
+
+<h4 id="224-notice">2.2.4 Notice</h4>
+
+<p>The <strong>license</strong> <em>may</em> require retention of copyright notices and identification of the license.</p>
+
+<h4 id="225-source">2.2.5 Source</h4>
+
+<p>The <strong>license</strong> <em>may</em> require that anyone distributing the work provide recipients with access to the preferred form for making modifications.</p>
+
+<h4 id="226-technical-restriction-prohibition">2.2.6 Technical Restriction Prohibition</h4>
+
+<p>The <strong>license</strong> <em>may</em> require that distributions of the work remain free of any technical measures that would restrict the exercise of otherwise allowed rights.</p>
+
+<h4 id="227-non-aggression">2.2.7 Non-aggression</h4>
+
+<p>The <strong>license</strong> <em>may</em> require modifiers to grant the public additional permissions (for example, patent licenses) as required for exercise of the rights allowed by the license. The license may also condition permissions on not aggressing against licensees with respect to exercising any allowed right (again, for example, patent litigation).</p>
+
+<hr />
+<p><em>The Open Definition was initially derived from the Open Source Definition, which in turn was derived from the original Debian Free Software Guidelines, and the Debian Social Contract of which they are a part, which were created by Bruce Perens and the Debian Developers. Bruce later used the same text in creating the Open Source Definition. This definition is substantially derivative of those documents and retains their essential principles. Richard Stallman was the first to push the ideals of software freedom which we continue.</em></p>
+
+
+      </div>
+      <div class="span3 sidebar">
+        <div class="widget">
+          <h3>The Open Definition in Your Language</h3>
+          <div>
+            <p class="od-languages">
+              <a href="/od/2.1/ar/">العربية</a> |
+<a href="/od/1.1/be/">Беларуская</a> |
+<a href="/od/1.1/bg/">Български</a> |
+<a href="/od/1.1/ca/">Català</a> |
+<a href="/od/2.0/cz/">Czech</a> |
+<a href="/od/1.1/da/">Dansk</a> |
+<a href="/od/2.0/de/">Deutsch</a> |
+<a href="/od/2.1/et/">Eesti</a> |
+<a href="/od/1.0/el/">Ελληνικά</a> |
+<a href="/od/2.1/en/">English</a> |
+<a href="/od/2.1/es/">Español</a> |
+<a href="/od/1.0/eu">Euskara</a> |
+<a href="/od/1.1/fi/">Suomi</a> |
+<a href="/od/1.1/fr/">Français</a> |
+<a href="/od/2.1/gl/">Galego</a> |
+<a href="/od/1.1/he/">עברית</a> |
+<a href="/od/2.0/hi">हिन्दी</a> |
+<a href="/od/1.1/hr/">Croatian</a> |
+<a href="/od/1.1/hu/">Magyar</a> |
+<a href="/od/1.1/id/">Indonesian</a> |
+<a href="/od/1.0/is/">Íslenska</a> |
+<a href="/od/2.0/it/">Italiano</a> |
+<a href="/od/2.1/ja/">日本語</a> |
+<a href="/od/1.1/kn/">ಕನ್ನಡ</a> |
+<a href="/od/2.1/ko/">한국어</a> |
+<a href="/od/1.1/mk/">македонски јазик</a> |
+<a href="/od/2.1/ne/">नेपाली</a> |
+<a href="/od/1.1/no/">Norsk (bokmål)</a> |
+<a href="/od/2.0/pl/">Polszczyzna</a> |
+<a href="/od/2.0/pt-br/">Português Brasileiro </a> |
+<a href="/od/1.1/pt/">Português</a> |
+<a href="/od/1.1/ru/">Русский</a> |
+<a href="/od/1.1/sq/">Shqip</a> |
+<a href="/od/2.1/sr/">Српски</a> |
+<a href="/od/1.1/sv/">Svenska</a> |
+<a href="/od/1.1/te/">తెలుగు</a> |
+<a href="/od/1.1/tr/">Türkçe</a> |
+<a href="/od/2.0/ua/">Українська</a> |
+<a href="/od/1.1/zh/">简体中文</a> |
+<a href="/od/2.0/zh-tw/">繁體中文</a>
+
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div><!-- /container -->
+
+<footer>
+  <div class="container">
+    <p>
+      Open Definition is a project of <a href="https://okfn.org">Open
+        Knowledge International</a>
+      &ndash;
+      <a href="https://github.com/okfn/opendefinition">Source Code</a>
+    </p>
+    <p>
+      <a href="http://opendefinition.org/ossd/" title="Open Online Software Service">
+        <img src="/assets.okfn.org/images/ok_buttons/os_80x15_orange_grey.png" alt="" border="" />
+      </a>
+      <a href="http://opendefinition.org/" title="Open Content">
+        <img src="/assets.okfn.org/images/ok_buttons/oc_80x15_blue.png" alt="" border="" />
+      </a>
+      &ndash;
+      <a href="https://creativecommons.org/licenses/by/4.0/">Content licensed under a CC Attribution 4.0 International License</a>
+    </p>
+    <p>
+      <a href="https://okfn.org/terms-of-use/">Terms of use</a>
+      |
+      <a href="https://okfn.org/privacy-policy/">Privacy policy</a>
+      |
+      <a href="https://okfn.org/ip-policy/">IP Policy</a>
+    </p>
+  </div>
+</footer>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+<script src="/assets.okfn.org/themes/okfn/collapse.min.js" type="text/javascript"></script>
+<script src="/assets.okfn.org/themes/okfn/okf-panel.js" type="text/javascript"></script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-8271754-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</body>
+</html>
