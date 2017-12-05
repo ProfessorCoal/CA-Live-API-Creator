@@ -1,0 +1,1330 @@
+<!DOCTYPE html>
+<html lang="en-us" prefix="og: http://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+<meta name="web-experience-app/config/environment" content="%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22contentSecurityPolicyMeta%22%3Atrue%2C%22contentSecurityPolicy%22%3A%7B%22default-src%22%3A%5B%22'none'%22%5D%2C%22img-src%22%3A%5B%22'self'%22%2C%22*.mzstatic.com%22%2C%22*.apple.com%22%5D%2C%22style-src%22%3A%5B%22'self'%22%2C%22'unsafe-inline'%22%2C%22*.apple.com%22%5D%2C%22font-src%22%3A%5B%22'self'%22%2C%22http%3A%2F%2F*.apple.com%22%2C%22https%3A%2F%2F*.apple.com%22%5D%2C%22media-src%22%3A%5B%22'self'%22%2C%22http%3A%2F%2F*.apple.com%22%2C%22*.apple.com%22%2C%22http%3A%2F%2F*.akamaihd.net%22%2C%22*.akamaihd.net%22%5D%2C%22connect-src%22%3A%5B%22'self'%22%2C%22*.apple.com%22%5D%2C%22script-src%22%3A%5B%22'self'%22%2C%22*.apple.com%22%5D%2C%22frame-src%22%3A%5B%22'self'%22%2C%22*.apple.com%22%2C%22itmss%3A%22%2C%22itms-appss%3A%22%2C%22itms-bookss%3A%22%2C%22itms-itunesus%3A%22%2C%22itms-messagess%3A%22%2C%22itms-podcasts%3A%22%2C%22itms-watchs%3A%22%2C%22macappstores%3A%22%2C%22musics%3A%22%2C%22apple-musics%3A%22%5D%7D%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%7D%2C%22APP%22%3A%7B%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%221744.10.0%22%7D%2C%22defaultLocale%22%3A%22en-gb%22%2C%22moment%22%3A%7B%22includeLocales%22%3Atrue%7D%2C%22browserify%22%3A%7B%22transform%22%3A%5B%5B%22babelify%22%2C%7B%22presets%22%3A%5B%22es2015%22%5D%2C%22global%22%3Atrue%2C%22only%22%3A%7B%7D%7D%5D%5D%7D%2C%22API%22%3A%7B%22MZStore%22%3A%22https%3A%2F%2Fitunes.apple.com%22%2C%22StorePlatform%22%3A%22https%3A%2F%2Fuclient-api.itunes.apple.com%2FWebObjects%2FMZStorePlatform.woa%2Fwa%22%2C%22globalElements%22%3A%22https%3A%2F%2Fweb-experience.itunes.apple.com%2Fglobal-elements%22%7D%2C%22ember-a11y-testing%22%3A%7B%22componentOptions%22%3A%7B%22turnAuditOff%22%3Atrue%2C%22axeOptions%22%3A%7B%22rules%22%3A%7B%22color-contrast%22%3A%7B%22enabled%22%3Afalse%7D%7D%7D%7D%7D%2C%22assetHost%22%3A%22https%3A%2F%2Fweb-experience.itunes.apple.com%22%2C%22contentSecurityPolicyHeader%22%3A%22Content-Security-Policy-Report-Only%22%2C%22exportApplicationGlobal%22%3Afalse%7D" />
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; img-src 'self' *.mzstatic.com *.apple.com; style-src 'self' 'unsafe-inline' *.apple.com; font-src 'self' http://*.apple.com https://*.apple.com; media-src 'self' http://*.apple.com *.apple.com http://*.akamaihd.net *.akamaihd.net; connect-src 'self' *.apple.com; script-src 'self' *.apple.com; frame-src 'self' *.apple.com itmss: itms-appss: itms-bookss: itms-itunesus: itms-messagess: itms-podcasts: itms-watchs: macappstores: musics: apple-musics:; ">
+<!-- EMBER_CLI_FASTBOOT_TITLE --><meta name="ember-cli-head-start"><title>Aladdin (Original Soundtrack) by Various Artists on Apple Music</title>
+<link rel="canonical" href="https://itunes.apple.com/us/album/aladdin-original-soundtrack/156088077">
+<link rel="stylesheet" href="//www.apple.com/wss/fonts?families=SF+Pro,v1|SF+Pro+Icons,v1">
+<link rel="manifest" href="https://apps.mzstatic.com/content/static-config/android/manifest.json">
+  <meta name="description" content="Listen to songs from the album Aladdin (Original Soundtrack), including &quot;Arabian Nights (Soundtrack Version)&quot;, &quot;Legend of the Lamp&quot;, &quot;One Jump Ahead (Soundtrack Version)&quot;, and many more. Buy the album for $9.99. Songs start at $0.99. Free with Apple Music subscription." id="ember14699304" class="ember-view">
+
+  <meta name="keywords" content="listen, Aladdin (Original Soundtrack), Various Artists, music, singles, songs, Soundtrack, streaming music, apple music" id="ember14699306" class="ember-view">
+
+  <meta property="og:title" content="Aladdin (Original Soundtrack) by Various Artists on Apple Music" id="ember14699308" class="ember-view">
+
+  <meta property="og:description" content="Listen to songs from the album Aladdin (Original Soundtrack), including &quot;Arabian Nights (Soundtrack Version)&quot;, &quot;Legend of the Lamp&quot;, &quot;One Jump Ahead (Soundtrack Version)&quot;, and many more. Buy the album for $9.99. Songs start at $0.99. Free with Apple Music subscription." id="ember14699310" class="ember-view">
+
+  <meta property="og:site_name" content="Apple Music" id="ember14699312" class="ember-view">
+
+  <meta property="og:url" content="https://itunes.apple.com/us/album/aladdin-original-soundtrack/156088077" id="ember14699314" class="ember-view">
+
+  <meta property="og:image" content="https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/f2/9d/20/f29d201c-885c-bb7c-0ac9-f8c0048c3e51/dj.vteryfyc.jpg/1200x630bb.jpg" id="ember14699316" class="ember-view">
+
+  <meta property="og:image:secure_url" content="https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/f2/9d/20/f29d201c-885c-bb7c-0ac9-f8c0048c3e51/dj.vteryfyc.jpg/1200x630bb.jpg" id="ember14699318" class="ember-view">
+
+  <meta property="og:image:type" content="image/jpg" id="ember14699320" class="ember-view">
+
+  <meta property="og:image:width" content="1200" id="ember14699322" class="ember-view">
+
+  <meta property="og:image:height" content="630" id="ember14699324" class="ember-view">
+
+  <meta property="og:locale" content="en-us" id="ember14699326" class="ember-view">
+
+  <meta name="twitter:title" content="Aladdin (Original Soundtrack) by Various Artists on Apple Music" id="ember14699328" class="ember-view">
+
+  <meta name="twitter:description" content="Listen to songs from the album Aladdin (Original Soundtrack), including &quot;Arabian Nights (Soundtrack Version)&quot;, &quot;Legend of the Lamp&quot;, &quot;One Jump Ahead (Soundtrack Version)&quot;, and many more. Buy the album for $9.99. Songs start at $0.99. Free with Apple Music subscription." id="ember14699330" class="ember-view">
+
+  <meta name="twitter:site" content="@AppleMusic" id="ember14699332" class="ember-view">
+
+  <meta name="twitter:domain" content="Apple Music" id="ember14699334" class="ember-view">
+
+  <meta name="twitter:image" content="https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/f2/9d/20/f29d201c-885c-bb7c-0ac9-f8c0048c3e51/dj.vteryfyc.jpg/1200x600bf.jpg" id="ember14699336" class="ember-view">
+
+  <meta name="twitter:card" content="summary_large_image" id="ember14699338" class="ember-view">
+
+  <meta name="apple:content_id" content="156088077" id="ember14699340" class="ember-view">
+
+  <meta property="og:type" content="music.album" id="ember14699342" class="ember-view">
+
+  <meta property="fb:app_id" content="602231459918900" id="ember14699344" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/arabian-nights-soundtrack-version/156088077?i=156088079" id="ember14699346" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699348" class="ember-view">
+
+  <meta property="music:song:track" content="1" id="ember14699350" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/legend-of-the-lamp/156088077?i=156088084" id="ember14699352" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699354" class="ember-view">
+
+  <meta property="music:song:track" content="2" id="ember14699356" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/one-jump-ahead-soundtrack-version/156088077?i=156088087" id="ember14699358" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699360" class="ember-view">
+
+  <meta property="music:song:track" content="3" id="ember14699362" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/street-urchins/156088077?i=156088092" id="ember14699364" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699366" class="ember-view">
+
+  <meta property="music:song:track" content="4" id="ember14699368" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/one-jump-ahead-reprise-soundtrack-version/156088077?i=156088096" id="ember14699370" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699372" class="ember-view">
+
+  <meta property="music:song:track" content="5" id="ember14699374" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/friend-like-me-soundtrack-version/156088077?i=156088099" id="ember14699376" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699378" class="ember-view">
+
+  <meta property="music:song:track" content="6" id="ember14699380" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/to-be-free/156088077?i=156088102" id="ember14699382" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699384" class="ember-view">
+
+  <meta property="music:song:track" content="7" id="ember14699386" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/prince-ali-soundtrack-version/156088077?i=156088105" id="ember14699388" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699390" class="ember-view">
+
+  <meta property="music:song:track" content="8" id="ember14699392" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/a-whole-new-world-soundtrack-version/156088077?i=156088108" id="ember14699394" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699396" class="ember-view">
+
+  <meta property="music:song:track" content="9" id="ember14699398" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/jafars-hour/156088077?i=156088112" id="ember14699400" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699402" class="ember-view">
+
+  <meta property="music:song:track" content="10" id="ember14699404" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/prince-ali-reprise-soundtrack-version/156088077?i=156088115" id="ember14699406" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699408" class="ember-view">
+
+  <meta property="music:song:track" content="11" id="ember14699410" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/the-ends-of-the-earth/156088077?i=156088120" id="ember14699412" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699414" class="ember-view">
+
+  <meta property="music:song:track" content="12" id="ember14699416" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/the-kiss/156088077?i=156088123" id="ember14699418" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699420" class="ember-view">
+
+  <meta property="music:song:track" content="13" id="ember14699422" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/on-a-dark-night/156088077?i=156088126" id="ember14699424" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699426" class="ember-view">
+
+  <meta property="music:song:track" content="14" id="ember14699428" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/jasmine-runs-away/156088077?i=156088129" id="ember14699430" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699432" class="ember-view">
+
+  <meta property="music:song:track" content="15" id="ember14699434" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/marketplace/156088077?i=156088132" id="ember14699436" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699438" class="ember-view">
+
+  <meta property="music:song:track" content="16" id="ember14699440" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/the-cave-of-wonders/156088077?i=156088135" id="ember14699442" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699444" class="ember-view">
+
+  <meta property="music:song:track" content="17" id="ember14699446" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/aladdins-world/156088077?i=156088138" id="ember14699448" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699450" class="ember-view">
+
+  <meta property="music:song:track" content="18" id="ember14699452" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/the-battle/156088077?i=156088141" id="ember14699454" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699456" class="ember-view">
+
+  <meta property="music:song:track" content="19" id="ember14699458" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/happy-end-in-agrabah/156088077?i=156088144" id="ember14699460" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699462" class="ember-view">
+
+  <meta property="music:song:track" content="20" id="ember14699464" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/a-whole-new-world-aladdins-theme-soundtrack-version/156088077?i=156088147" id="ember14699466" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699468" class="ember-view">
+
+  <meta property="music:song:track" content="21" id="ember14699470" class="ember-view">
+
+  <meta property="music:musician" content="https://itunes.apple.com/us/artist/bruce-adler/6656639" id="ember14699472" class="ember-view">
+
+  <meta property="music:musician" content="https://itunes.apple.com/us/artist/alan-menken/393023" id="ember14699474" class="ember-view">
+
+  <meta property="music:musician" content="https://itunes.apple.com/us/artist/brad-kane/6656648" id="ember14699476" class="ember-view">
+
+  <meta property="music:musician" content="https://itunes.apple.com/us/artist/robin-williams/63714" id="ember14699478" class="ember-view">
+
+  <meta property="music:musician" content="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&amp;ids=271962159-6656648" id="ember14699480" class="ember-view">
+
+  <meta property="music:musician" content="https://itunes.apple.com/us/artist/jonathan-freeman/277522" id="ember14699482" class="ember-view">
+
+  <meta property="music:musician" content="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&amp;ids=11175-691458" id="ember14699484" class="ember-view">
+
+  <meta property="music:release_date" content="1992-01-01" id="ember14699486" class="ember-view">
+
+  <script name="schema:music-album" type="application/ld+json" id="ember14699488" class="ember-view">{"@context":"http://schema.org","@type":"MusicAlbum","name":"Aladdin (Original Soundtrack)","description":"Listen to songs from the album Aladdin (Original Soundtrack), including \"Arabian Nights (Soundtrack Version)\", \"Legend of the Lamp\", \"One Jump Ahead (Soundtrack Version)\", and many more. Buy the album for $9.99. Songs start at $0.99. Free with Apple Music subscription.","tracks":[{"@type":"MusicRecording","name":"Arabian Nights (Soundtrack Version)","duration":"PT1M19S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"Legend of the Lamp","duration":"PT1M25S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"One Jump Ahead (Soundtrack Version)","duration":"PT2M22S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"Street Urchins","duration":"PT1M52S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"One Jump Ahead (Reprise) [Soundtrack Version]","duration":"PT1M1S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"Friend Like Me (Soundtrack Version)","duration":"PT2M26S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"To Be Free","duration":"PT1M39S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"Prince Ali (Soundtrack Version)","duration":"PT2M51S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$0.99"}},{"@type":"MusicRecording","name":"A Whole New World (Soundtrack Version)","duration":"PT2M40S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"Jafar's Hour","duration":"PT2M43S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"Prince Ali (Reprise) [Soundtrack Version]","duration":"PT1M7S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"The Ends of the Earth","duration":"PT1M35S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"The Kiss","duration":"PT1M51S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$0.99"}},{"@type":"MusicRecording","name":"On a Dark Night","duration":"PT2M55S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"Jasmine Runs Away","duration":"PT46S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"Marketplace","duration":"PT2M37S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"The Cave of Wonders","duration":"PT4M57S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"Aladdin's World","duration":"PT1M51S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"The Battle","duration":"PT3M39S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"Happy End In Agrabah","duration":"PT4M15S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"A Whole New World (Aladdin's Theme) [Soundtrack Version]","duration":"PT4M10S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}}],"workExample":[],"citation":[{"@type":"MusicAlbum","image":"https://is2-ssl.mzstatic.com/image/thumb/Features/30/ef/28/dj.bgadzkrd.jpg/1200x630bb.jpg","url":"https://itunes.apple.com/us/album/beauty-and-the-beast-soundtrack-from-the-motion-picture/390433307","name":"Beauty and the Beast (Soundtrack from the Motion Picture)"},{"@type":"MusicAlbum","image":"https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/6a/b1/30/6ab13005-7a6f-6f6d-fb87-6725da3f0ec1/dj.zegzawxm.jpg/1200x630bb.jpg","url":"https://itunes.apple.com/us/album/little-mermaid-original-walt-disney-records-soundtrack/193376473","name":"The Little Mermaid (An Original Walt Disney Records Soundtrack) [Special Edition]"},{"@type":"MusicAlbum","image":"https://is5-ssl.mzstatic.com/image/thumb/Features/95/fc/46/dj.eqiyiumv.jpg/1200x630bb.jpg","url":"https://itunes.apple.com/us/album/beauty-and-the-beast-the-broadway-musical/156774405","name":"Beauty and the Beast (The Broadway Musical)"},{"@type":"MusicAlbum","image":"https://is1-ssl.mzstatic.com/image/thumb/Features/37/f9/d5/dj.mqzodfop.jpg/1200x630bb.jpg","url":"https://itunes.apple.com/us/album/pocahontas-original-soundtrack/191902361","name":"Pocahontas (Original Soundtrack)"},{"@type":"MusicAlbum","image":"https://is1-ssl.mzstatic.com/image/thumb/Music/v4/1c/7d/87/1c7d873c-85f5-f653-213c-9e370d7285e2/UMG_cvrart_00050086100378_01_RGB72_1500x1500_13DMGIM03813.jpg/1200x630bb.jpg","url":"https://itunes.apple.com/us/album/disneys-aladdin-a-musical-spectacular/609145793","name":"Disney's Aladdin: A Musical Spectacular"},{"@type":"MusicAlbum","image":"https://is4-ssl.mzstatic.com/image/thumb/Music62/v4/63/96/9c/63969c62-f917-afb9-27e8-2b45099aeb66/dj.pbwtrftv.jpg/1200x630bb.jpg","url":"https://itunes.apple.com/us/album/sleeping-beauty-original-soundtrack/156087691","name":"Sleeping Beauty (Original Soundtrack)"}],"genre":["https://itunes.apple.com/us/genre/id16","https://itunes.apple.com/us/genre/id34","https://itunes.apple.com/us/genre/id50000063"],"datePublished":"1992-01-01","byArtist":{"@type":"MusicGroup"}}
+</script>
+
+<meta name="ember-cli-head-end">
+
+    <meta name="version" content="1744.10.0">
+
+    <link integrity="" rel="stylesheet" href="https://web-experience.itunes.apple.com/assets/web-experience-app-a3d6100950c2e9e4d94e536959770c46.css">
+
+    
+  </head>
+  <body class="no-js">
+    <link rel="stylesheet" type="text/css" href="https://www.apple.com/ac/globalnav/3/en_US/styles/ac-globalnav.built.css">
+<aside id="ac-gn-segmentbar" class="ac-gn-segmentbar" lang="en-US" dir="ltr" data-strings="{ 'exit': 'Exit', 'view': '{%STOREFRONT%} Store Home', 'segments': { 'smb': 'Business Store Home', 'eduInd': 'Education Store Home', 'other': 'Store Home' } }">
+</aside>
+<input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate" />
+<nav id="ac-globalnav" class="no-js" role="navigation" aria-label="Global Navigation" data-hires="false" data-analytics-region="global nav" lang="en-US" dir="ltr" data-store-locale="us" data-store-api="//www.apple.com/[storefront]/shop/bag/status" data-search-locale="en_US" data-search-api="//www.apple.com/search-services/suggestions/">
+	<div class="ac-gn-content">
+		<ul class="ac-gn-header">
+			<li class="ac-gn-item ac-gn-menuicon">
+				<label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true">
+					<span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top">
+						<span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span>
+					</span>
+					<span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom">
+						<span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span>
+					</span>
+				</label>
+				<a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open">
+					<span class="ac-gn-menuanchor-label">Open Menu</span>
+				</a>
+				<a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close">
+					<span class="ac-gn-menuanchor-label">Close Menu</span>
+				</a>
+			</li>
+			<li class="ac-gn-item ac-gn-apple">
+				<a class="ac-gn-link ac-gn-link-apple" href="//www.apple.com/" data-analytics-title="apple home" id="ac-gn-firstfocus-small">
+					<span class="ac-gn-link-text">Apple</span>
+				</a>
+			</li>
+			<li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small">
+				<a class="ac-gn-link ac-gn-link-bag" href="//www.apple.com/us/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="Shopping Bag" data-string-badge="Shopping Bag with Items">
+					<span class="ac-gn-link-text">Shopping Bag</span>
+					<span class="ac-gn-bag-badge"></span>
+				</a>
+				<span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+			</li>
+		</ul>
+		<ul class="ac-gn-list">
+			<li class="ac-gn-item ac-gn-apple">
+				<a class="ac-gn-link ac-gn-link-apple" href="//www.apple.com/" data-analytics-title="apple home" id="ac-gn-firstfocus">
+					<span class="ac-gn-link-text">Apple</span>
+				</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-mac">
+				<a class="ac-gn-link ac-gn-link-mac" href="//www.apple.com/mac/" data-analytics-title="mac">
+					<span class="ac-gn-link-text">Mac</span>
+				</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-ipad">
+				<a class="ac-gn-link ac-gn-link-ipad" href="//www.apple.com/ipad/" data-analytics-title="ipad">
+					<span class="ac-gn-link-text">iPad</span>
+				</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-iphone">
+				<a class="ac-gn-link ac-gn-link-iphone" href="//www.apple.com/iphone/" data-analytics-title="iphone">
+					<span class="ac-gn-link-text">iPhone</span>
+				</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-watch">
+				<a class="ac-gn-link ac-gn-link-watch" href="//www.apple.com/watch/" data-analytics-title="watch">
+					<span class="ac-gn-link-text">Watch</span>
+				</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-tv">
+				<a class="ac-gn-link ac-gn-link-tv" href="//www.apple.com/tv/" data-analytics-title="tv">
+					<span class="ac-gn-link-text">TV</span>
+				</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-music">
+				<a class="ac-gn-link ac-gn-link-music" href="//www.apple.com/music/" data-analytics-title="music">
+					<span class="ac-gn-link-text">Music</span>
+				</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-support">
+				<a class="ac-gn-link ac-gn-link-support" href="https://support.apple.com" data-analytics-title="support">
+					<span class="ac-gn-link-text">Support</span>
+				</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search">
+				<a class="ac-gn-link ac-gn-link-search" href="//www.apple.com/us/search" data-analytics-title="search" data-analytics-click="search" aria-label="Search apple.com">
+					<span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com</span>
+				</a>
+			</li>
+			<li class="ac-gn-item ac-gn-bag" id="ac-gn-bag">
+				<a class="ac-gn-link ac-gn-link-bag" href="//www.apple.com/us/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="Shopping Bag" data-string-badge="Shopping Bag with Items">
+					<span class="ac-gn-link-text">Shopping Bag</span>
+					<span class="ac-gn-bag-badge" aria-hidden="true"></span>
+				</a>
+				<span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+			</li>
+		</ul>
+		<aside id="ac-gn-searchview" class="ac-gn-searchview" role="search" data-analytics-region="search">
+			<div class="ac-gn-searchview-content">
+				<form id="ac-gn-searchform" class="ac-gn-searchform" action="//www.apple.com/us/search" method="get">
+					<div class="ac-gn-searchform-wrapper">
+						<input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" aria-label="Search apple.com" placeholder="Search apple.com" data-placeholder-long="Search for Products, Stores, and Help" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false" />
+						<input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav" />
+						<button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled aria-label="Submit"></button>
+						<button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled aria-label="Clear Search"></button>
+					</div>
+				</form>
+				<aside id="ac-gn-searchresults" class="ac-gn-searchresults" data-string-quicklinks="Quick Links" data-string-suggestions="Suggested Searches" data-string-noresults="Hit enter to search."></aside>
+			</div>
+			<button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Close Search">
+					<span class="ac-gn-searchview-close-wrapper">
+						<span class="ac-gn-searchview-close-left"></span>
+						<span class="ac-gn-searchview-close-right"></span>
+					</span>
+				</button>
+		</aside>
+		<aside class="ac-gn-bagview" data-analytics-region="bag">
+			<div class="ac-gn-bagview-scrim">
+				<span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span>
+			</div>
+			<div class="ac-gn-bagview-content" id="ac-gn-bagview-content">
+			</div>
+		</aside>
+	</div>
+</nav>
+<div id="ac-gn-curtain" class="ac-gn-curtain"></div>
+<div id="ac-gn-placeholder" class="ac-nav-placeholder"></div>
+<script type="text/javascript" src="https://www.apple.com/ac/globalnav/3/en_US/scripts/ac-globalnav.built.js" async></script>
+<div id="ember14699489" class="ember-view"><meta name="ember-cli-head-start"><title>Aladdin (Original Soundtrack) by Various Artists on Apple Music</title>
+<link rel="canonical" href="https://itunes.apple.com/us/album/aladdin-original-soundtrack/156088077">
+<link rel="stylesheet" href="//www.apple.com/wss/fonts?families=SF+Pro,v1|SF+Pro+Icons,v1">
+<link rel="manifest" href="https://apps.mzstatic.com/content/static-config/android/manifest.json">
+  <meta name="description" content="Listen to songs from the album Aladdin (Original Soundtrack), including &quot;Arabian Nights (Soundtrack Version)&quot;, &quot;Legend of the Lamp&quot;, &quot;One Jump Ahead (Soundtrack Version)&quot;, and many more. Buy the album for $9.99. Songs start at $0.99. Free with Apple Music subscription." id="ember14699493" class="ember-view">
+
+  <meta name="keywords" content="listen, Aladdin (Original Soundtrack), Various Artists, music, singles, songs, Soundtrack, streaming music, apple music" id="ember14699494" class="ember-view">
+
+  <meta property="og:title" content="Aladdin (Original Soundtrack) by Various Artists on Apple Music" id="ember14699495" class="ember-view">
+
+  <meta property="og:description" content="Listen to songs from the album Aladdin (Original Soundtrack), including &quot;Arabian Nights (Soundtrack Version)&quot;, &quot;Legend of the Lamp&quot;, &quot;One Jump Ahead (Soundtrack Version)&quot;, and many more. Buy the album for $9.99. Songs start at $0.99. Free with Apple Music subscription." id="ember14699496" class="ember-view">
+
+  <meta property="og:site_name" content="Apple Music" id="ember14699497" class="ember-view">
+
+  <meta property="og:url" content="https://itunes.apple.com/us/album/aladdin-original-soundtrack/156088077" id="ember14699498" class="ember-view">
+
+  <meta property="og:image" content="https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/f2/9d/20/f29d201c-885c-bb7c-0ac9-f8c0048c3e51/dj.vteryfyc.jpg/1200x630bb.jpg" id="ember14699499" class="ember-view">
+
+  <meta property="og:image:secure_url" content="https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/f2/9d/20/f29d201c-885c-bb7c-0ac9-f8c0048c3e51/dj.vteryfyc.jpg/1200x630bb.jpg" id="ember14699500" class="ember-view">
+
+  <meta property="og:image:type" content="image/jpg" id="ember14699501" class="ember-view">
+
+  <meta property="og:image:width" content="1200" id="ember14699502" class="ember-view">
+
+  <meta property="og:image:height" content="630" id="ember14699503" class="ember-view">
+
+  <meta property="og:locale" content="en-us" id="ember14699504" class="ember-view">
+
+  <meta name="twitter:title" content="Aladdin (Original Soundtrack) by Various Artists on Apple Music" id="ember14699505" class="ember-view">
+
+  <meta name="twitter:description" content="Listen to songs from the album Aladdin (Original Soundtrack), including &quot;Arabian Nights (Soundtrack Version)&quot;, &quot;Legend of the Lamp&quot;, &quot;One Jump Ahead (Soundtrack Version)&quot;, and many more. Buy the album for $9.99. Songs start at $0.99. Free with Apple Music subscription." id="ember14699506" class="ember-view">
+
+  <meta name="twitter:site" content="@AppleMusic" id="ember14699507" class="ember-view">
+
+  <meta name="twitter:domain" content="Apple Music" id="ember14699508" class="ember-view">
+
+  <meta name="twitter:image" content="https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/f2/9d/20/f29d201c-885c-bb7c-0ac9-f8c0048c3e51/dj.vteryfyc.jpg/1200x600bf.jpg" id="ember14699509" class="ember-view">
+
+  <meta name="twitter:card" content="summary_large_image" id="ember14699510" class="ember-view">
+
+  <meta name="apple:content_id" content="156088077" id="ember14699511" class="ember-view">
+
+  <meta property="og:type" content="music.album" id="ember14699512" class="ember-view">
+
+  <meta property="fb:app_id" content="602231459918900" id="ember14699513" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/arabian-nights-soundtrack-version/156088077?i=156088079" id="ember14699514" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699515" class="ember-view">
+
+  <meta property="music:song:track" content="1" id="ember14699516" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/legend-of-the-lamp/156088077?i=156088084" id="ember14699517" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699518" class="ember-view">
+
+  <meta property="music:song:track" content="2" id="ember14699519" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/one-jump-ahead-soundtrack-version/156088077?i=156088087" id="ember14699520" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699521" class="ember-view">
+
+  <meta property="music:song:track" content="3" id="ember14699522" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/street-urchins/156088077?i=156088092" id="ember14699523" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699524" class="ember-view">
+
+  <meta property="music:song:track" content="4" id="ember14699525" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/one-jump-ahead-reprise-soundtrack-version/156088077?i=156088096" id="ember14699526" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699527" class="ember-view">
+
+  <meta property="music:song:track" content="5" id="ember14699528" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/friend-like-me-soundtrack-version/156088077?i=156088099" id="ember14699529" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699530" class="ember-view">
+
+  <meta property="music:song:track" content="6" id="ember14699531" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/to-be-free/156088077?i=156088102" id="ember14699532" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699533" class="ember-view">
+
+  <meta property="music:song:track" content="7" id="ember14699534" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/prince-ali-soundtrack-version/156088077?i=156088105" id="ember14699535" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699536" class="ember-view">
+
+  <meta property="music:song:track" content="8" id="ember14699537" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/a-whole-new-world-soundtrack-version/156088077?i=156088108" id="ember14699538" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699539" class="ember-view">
+
+  <meta property="music:song:track" content="9" id="ember14699540" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/jafars-hour/156088077?i=156088112" id="ember14699541" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699542" class="ember-view">
+
+  <meta property="music:song:track" content="10" id="ember14699543" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/prince-ali-reprise-soundtrack-version/156088077?i=156088115" id="ember14699544" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699545" class="ember-view">
+
+  <meta property="music:song:track" content="11" id="ember14699546" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/the-ends-of-the-earth/156088077?i=156088120" id="ember14699547" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699548" class="ember-view">
+
+  <meta property="music:song:track" content="12" id="ember14699549" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/the-kiss/156088077?i=156088123" id="ember14699550" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699551" class="ember-view">
+
+  <meta property="music:song:track" content="13" id="ember14699552" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/on-a-dark-night/156088077?i=156088126" id="ember14699553" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699554" class="ember-view">
+
+  <meta property="music:song:track" content="14" id="ember14699555" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/jasmine-runs-away/156088077?i=156088129" id="ember14699556" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699557" class="ember-view">
+
+  <meta property="music:song:track" content="15" id="ember14699558" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/marketplace/156088077?i=156088132" id="ember14699559" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699560" class="ember-view">
+
+  <meta property="music:song:track" content="16" id="ember14699561" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/the-cave-of-wonders/156088077?i=156088135" id="ember14699562" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699563" class="ember-view">
+
+  <meta property="music:song:track" content="17" id="ember14699564" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/aladdins-world/156088077?i=156088138" id="ember14699565" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699566" class="ember-view">
+
+  <meta property="music:song:track" content="18" id="ember14699567" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/the-battle/156088077?i=156088141" id="ember14699568" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699569" class="ember-view">
+
+  <meta property="music:song:track" content="19" id="ember14699570" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/happy-end-in-agrabah/156088077?i=156088144" id="ember14699571" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699572" class="ember-view">
+
+  <meta property="music:song:track" content="20" id="ember14699573" class="ember-view">
+
+  <meta property="music:song" content="https://itunes.apple.com/us/album/a-whole-new-world-aladdins-theme-soundtrack-version/156088077?i=156088147" id="ember14699574" class="ember-view">
+
+  <meta property="music:song:disc" content="1" id="ember14699575" class="ember-view">
+
+  <meta property="music:song:track" content="21" id="ember14699576" class="ember-view">
+
+  <meta property="music:musician" content="https://itunes.apple.com/us/artist/bruce-adler/6656639" id="ember14699577" class="ember-view">
+
+  <meta property="music:musician" content="https://itunes.apple.com/us/artist/alan-menken/393023" id="ember14699578" class="ember-view">
+
+  <meta property="music:musician" content="https://itunes.apple.com/us/artist/brad-kane/6656648" id="ember14699579" class="ember-view">
+
+  <meta property="music:musician" content="https://itunes.apple.com/us/artist/robin-williams/63714" id="ember14699580" class="ember-view">
+
+  <meta property="music:musician" content="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&amp;ids=271962159-6656648" id="ember14699581" class="ember-view">
+
+  <meta property="music:musician" content="https://itunes.apple.com/us/artist/jonathan-freeman/277522" id="ember14699582" class="ember-view">
+
+  <meta property="music:musician" content="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&amp;ids=11175-691458" id="ember14699583" class="ember-view">
+
+  <meta property="music:release_date" content="1992-01-01" id="ember14699584" class="ember-view">
+
+  <script name="schema:music-album" type="application/ld+json" id="ember14699585" class="ember-view">{"@context":"http://schema.org","@type":"MusicAlbum","name":"Aladdin (Original Soundtrack)","description":"Listen to songs from the album Aladdin (Original Soundtrack), including \"Arabian Nights (Soundtrack Version)\", \"Legend of the Lamp\", \"One Jump Ahead (Soundtrack Version)\", and many more. Buy the album for $9.99. Songs start at $0.99. Free with Apple Music subscription.","tracks":[{"@type":"MusicRecording","name":"Arabian Nights (Soundtrack Version)","duration":"PT1M19S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"Legend of the Lamp","duration":"PT1M25S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"One Jump Ahead (Soundtrack Version)","duration":"PT2M22S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"Street Urchins","duration":"PT1M52S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"One Jump Ahead (Reprise) [Soundtrack Version]","duration":"PT1M1S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"Friend Like Me (Soundtrack Version)","duration":"PT2M26S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"To Be Free","duration":"PT1M39S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"Prince Ali (Soundtrack Version)","duration":"PT2M51S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$0.99"}},{"@type":"MusicRecording","name":"A Whole New World (Soundtrack Version)","duration":"PT2M40S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"Jafar's Hour","duration":"PT2M43S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"Prince Ali (Reprise) [Soundtrack Version]","duration":"PT1M7S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"The Ends of the Earth","duration":"PT1M35S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"The Kiss","duration":"PT1M51S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$0.99"}},{"@type":"MusicRecording","name":"On a Dark Night","duration":"PT2M55S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"Jasmine Runs Away","duration":"PT46S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"Marketplace","duration":"PT2M37S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"The Cave of Wonders","duration":"PT4M57S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"Aladdin's World","duration":"PT1M51S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"The Battle","duration":"PT3M39S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"Happy End In Agrabah","duration":"PT4M15S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}},{"@type":"MusicRecording","name":"A Whole New World (Aladdin's Theme) [Soundtrack Version]","duration":"PT4M10S","audio":{"@type":"AudioObject"},"offers":{"@type":"Offer","price":"$1.29"}}],"workExample":[],"citation":[{"@type":"MusicAlbum","image":"https://is2-ssl.mzstatic.com/image/thumb/Features/30/ef/28/dj.bgadzkrd.jpg/1200x630bb.jpg","url":"https://itunes.apple.com/us/album/beauty-and-the-beast-soundtrack-from-the-motion-picture/390433307","name":"Beauty and the Beast (Soundtrack from the Motion Picture)"},{"@type":"MusicAlbum","image":"https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/6a/b1/30/6ab13005-7a6f-6f6d-fb87-6725da3f0ec1/dj.zegzawxm.jpg/1200x630bb.jpg","url":"https://itunes.apple.com/us/album/little-mermaid-original-walt-disney-records-soundtrack/193376473","name":"The Little Mermaid (An Original Walt Disney Records Soundtrack) [Special Edition]"},{"@type":"MusicAlbum","image":"https://is5-ssl.mzstatic.com/image/thumb/Features/95/fc/46/dj.eqiyiumv.jpg/1200x630bb.jpg","url":"https://itunes.apple.com/us/album/beauty-and-the-beast-the-broadway-musical/156774405","name":"Beauty and the Beast (The Broadway Musical)"},{"@type":"MusicAlbum","image":"https://is1-ssl.mzstatic.com/image/thumb/Features/37/f9/d5/dj.mqzodfop.jpg/1200x630bb.jpg","url":"https://itunes.apple.com/us/album/pocahontas-original-soundtrack/191902361","name":"Pocahontas (Original Soundtrack)"},{"@type":"MusicAlbum","image":"https://is1-ssl.mzstatic.com/image/thumb/Music/v4/1c/7d/87/1c7d873c-85f5-f653-213c-9e370d7285e2/UMG_cvrart_00050086100378_01_RGB72_1500x1500_13DMGIM03813.jpg/1200x630bb.jpg","url":"https://itunes.apple.com/us/album/disneys-aladdin-a-musical-spectacular/609145793","name":"Disney's Aladdin: A Musical Spectacular"},{"@type":"MusicAlbum","image":"https://is4-ssl.mzstatic.com/image/thumb/Music62/v4/63/96/9c/63969c62-f917-afb9-27e8-2b45099aeb66/dj.pbwtrftv.jpg/1200x630bb.jpg","url":"https://itunes.apple.com/us/album/sleeping-beauty-original-soundtrack/156087691","name":"Sleeping Beauty (Original Soundtrack)"}],"genre":["https://itunes.apple.com/us/genre/id16","https://itunes.apple.com/us/genre/id34","https://itunes.apple.com/us/genre/id50000063"],"datePublished":"1992-01-01","byArtist":{"@type":"MusicGroup"}}
+</script>
+
+<meta name="ember-cli-head-end">
+
+<main class="is-music-theme">
+  <div id="ember14699586" class="loading-slider ember-view"></div>
+  <style data-test-global-element-visibility id="ember14699587" class="ember-view"><!----></style>
+  <!---->
+  <div id="ember14699590" class="focusing-outlet ember-view"><div id="ember14699591" class="ember-view"><div id="ember14699593" class="focusing-outlet ember-view"><div id="ember14699594" class="ember-view"><div id="ember14699596" class="focusing-outlet ember-view"><div id="ember14699597" class="ember-view">  <input type="checkbox" id="localnav-menustate" class="localnav-menustate">
+<nav id="localnav" role="navigation" class="we-localnav localnav css-sticky">
+  <div class="localnav-wrapper">
+    <div class="localnav-background we-localnav__background"></div>
+    <div class="localnav-content">
+      <h2 class="localnav-title">Apple Music Preview</h2>
+      <div class="localnav-menu">
+        <div class="localnav-actions localnav-actions-center">
+          <div class="localnav-action localnav-action-button we-localnav__action">
+              <a href="https://itunes.apple.com/subscribe?app=music" class="localnav-button button button--compact button--apple-music">Try It Now</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>
+<label id="localnav-curtain" for="localnav-menustate"></label>
+
+
+
+<section class="l-content-width section section--hero">
+  <div class="l-row">
+    <div class="l-column medium-5 large-4 small-valign-top small-hide medium-show-inlineblock">
+        <picture data-test-we-artwork id="ember14699613" class="product-artwork product-artwork--captioned we-artwork--fullwidth we-artwork ember-view">      <source srcset="https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/f2/9d/20/f29d201c-885c-bb7c-0ac9-f8c0048c3e51/dj.vteryfyc.jpg/313x0w.jpg 1x,https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/f2/9d/20/f29d201c-885c-bb7c-0ac9-f8c0048c3e51/dj.vteryfyc.jpg/626x0w.jpg 2x,https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/f2/9d/20/f29d201c-885c-bb7c-0ac9-f8c0048c3e51/dj.vteryfyc.jpg/939x0w.jpg 3x" media="(min-width: 1069px)">
+<!---->      <source srcset="https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/f2/9d/20/f29d201c-885c-bb7c-0ac9-f8c0048c3e51/dj.vteryfyc.jpg/276x0w.jpg 1x,https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/f2/9d/20/f29d201c-885c-bb7c-0ac9-f8c0048c3e51/dj.vteryfyc.jpg/552x0w.jpg 2x,https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/f2/9d/20/f29d201c-885c-bb7c-0ac9-f8c0048c3e51/dj.vteryfyc.jpg/828x0w.jpg 3x" media="(min-width: 736px)">
+<!---->      <source srcset="https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/f2/9d/20/f29d201c-885c-bb7c-0ac9-f8c0048c3e51/dj.vteryfyc.jpg/268x0w.jpg 1x,https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/f2/9d/20/f29d201c-885c-bb7c-0ac9-f8c0048c3e51/dj.vteryfyc.jpg/536x0w.jpg 2x,https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/f2/9d/20/f29d201c-885c-bb7c-0ac9-f8c0048c3e51/dj.vteryfyc.jpg/804x0w.jpg 3x">
+      <img src="https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/f2/9d/20/f29d201c-885c-bb7c-0ac9-f8c0048c3e51/dj.vteryfyc.jpg/268x0w.jpg" style="background-color: #0c160d;" alt class="we-artwork__image ember14699613">
+  <style>
+    .ember14699613 {
+        width: 268px;
+        height: 236px;
+      }
+@media (min-width: 736px) {
+          .ember14699613 {
+        width: 276px;
+        height: 243px;
+      }
+        }
+@media (min-width: 1069px) {
+          .ember14699613 {
+        width: 313px;
+        height: 276px;
+      }
+        }
+  </style>
+</picture>
+
+      <div class="product-artwork-caption small-hide medium-show">
+        <p>
+            21 Songs
+        </p>
+
+          <button aria-label="Preview available tracks from ‘Aladdin (Original Soundtrack)’ by Various Artists" class="product-artwork-caption__preview-all targeted-link link icon icon-after icon-play">Preview</button>
+      </div>
+
+      <div class="product-hero-desc">
+          <section class="product-hero-desc__section">
+            <h4 class="t-subsection-headline">EDITORS’ NOTES</h4>
+            <p data-test-truncate aria-label="The music accompanying Disney’s animated retelling of Aladdin and the Magic Lamp is lively yet meticulously put together, incorporating traditional Arabic music ideals into set pieces and tracks like the scheming “One Jump Ahead,” which features Brad Kane as the titular pauper. Lea Salonga’s Princess Jasmine offers up a wide-eyed innocence that plays off Kane’s knowing presence on the sparkling “A Whole New World”; Regina Belle and Peabo Bryson’s radio-ready rework of that ballad retains its wonder while adding lush synths." id="ember14699633" class="we-truncate we-truncate--multi-line we-truncate--interactive ember-view">  <div class="we-truncate__child">
+    <div id="ember14699634" class="ember-view">The music accompanying Disney’s animated retelling of Aladdin and the Magic Lamp is lively yet meticulously put together, incorporating traditional Arabic music ideals into set pieces and tracks like the scheming “One Jump Ahead,” which features Brad Kane as the titular pauper. Lea Salonga’s Princess Jasmine offers up a wide-eyed innocence that plays off Kane’s knowing presence on the sparkling “A Whole New World”; Regina Belle and Peabo Bryson’s radio-ready rework of that ballad retains its wonder while adding lush synths.
+</div>
+  </div>
+<!----></p>
+          </section>
+<!---->      </div>
+    </div>
+
+    <div class="l-column small-12 medium-7 large-8 small-valign-top product-hero-gutter">
+      <div class="l-row">
+        <div class="l-column small-5 medium-hide small-valign-top">
+            <picture data-test-we-artwork id="ember14699635" class="product-artwork we-artwork--fullwidth we-artwork ember-view">      <source srcset="https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/f2/9d/20/f29d201c-885c-bb7c-0ac9-f8c0048c3e51/dj.vteryfyc.jpg/313x0w.jpg 1x,https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/f2/9d/20/f29d201c-885c-bb7c-0ac9-f8c0048c3e51/dj.vteryfyc.jpg/626x0w.jpg 2x,https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/f2/9d/20/f29d201c-885c-bb7c-0ac9-f8c0048c3e51/dj.vteryfyc.jpg/939x0w.jpg 3x" media="(min-width: 1069px)">
+<!---->      <source srcset="https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/f2/9d/20/f29d201c-885c-bb7c-0ac9-f8c0048c3e51/dj.vteryfyc.jpg/276x0w.jpg 1x,https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/f2/9d/20/f29d201c-885c-bb7c-0ac9-f8c0048c3e51/dj.vteryfyc.jpg/552x0w.jpg 2x,https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/f2/9d/20/f29d201c-885c-bb7c-0ac9-f8c0048c3e51/dj.vteryfyc.jpg/828x0w.jpg 3x" media="(min-width: 736px)">
+<!---->      <source srcset="https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/f2/9d/20/f29d201c-885c-bb7c-0ac9-f8c0048c3e51/dj.vteryfyc.jpg/268x0w.jpg 1x,https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/f2/9d/20/f29d201c-885c-bb7c-0ac9-f8c0048c3e51/dj.vteryfyc.jpg/536x0w.jpg 2x,https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/f2/9d/20/f29d201c-885c-bb7c-0ac9-f8c0048c3e51/dj.vteryfyc.jpg/804x0w.jpg 3x">
+      <img src="https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/f2/9d/20/f29d201c-885c-bb7c-0ac9-f8c0048c3e51/dj.vteryfyc.jpg/268x0w.jpg" style="background-color: #0c160d;" alt class="we-artwork__image ember14699635">
+  <style>
+    .ember14699635 {
+        width: 268px;
+        height: 236px;
+      }
+@media (min-width: 736px) {
+          .ember14699635 {
+        width: 276px;
+        height: 243px;
+      }
+        }
+@media (min-width: 1069px) {
+          .ember14699635 {
+        width: 313px;
+        height: 276px;
+      }
+        }
+  </style>
+</picture>
+        </div>
+
+        <div class="l-column small-7 medium-12 small-valign-top">
+          <header role="banner" class="product-header product-header--guttered">
+            <h1 class="t-hero-headline">Aladdin (Original Soundtrack)</h1>
+            <h2 class="t-hero-subheadline">
+                Various Artists
+            </h2>
+
+            <ul class="product-header__list">
+              <li class="product-header__list__item">
+                <ul class="inline-list">
+                  <li class="inline-list__item inline-list__item--bulleted">
+                      <a href="https://itunes.apple.com/us/genre/id16" class="link">Soundtrack</a>
+                  </li>
+                    <li class="inline-list__item inline-list__item--bulleted">
+                      <time data-test-we-datetime datetime="Jan 1, 1992" aria-label="January 1, 1992">Jan 1, 1992</time>
+                    </li>
+                </ul>
+              </li>
+
+<!---->
+<!---->            </ul>
+            <div class="product-header__routes">
+              <p class="product-header__routes__cta">
+                  <button data-test-web-to-native-cta="music" aria-label="Listen on Apple Music" id="ember14699639" class="button-outlined icon icon-after icon-external ember-view">Listen on <span class="button-outlined__app">Apple Music</span>
+</button>
+              </p>
+                <nav class="t-subbody product-header__routes__nav small-hide medium-show">
+                  <button aria-label="View Aladdin (Original Soundtrack) in iTunes" class="link">Also Available in iTunes</button>
+                </nav>
+            </div>
+          </header>
+        </div>
+      </div>
+
+      <div class="product-hero-desc medium-hide">
+          <section class="product-hero-desc__section section--bordered">
+            <h4 class="t-subsection-headline">EDITORS’ NOTES</h4>
+            <p data-test-truncate aria-label="The music accompanying Disney’s animated retelling of Aladdin and the Magic Lamp is lively yet meticulously put together, incorporating traditional Arabic music ideals into set pieces and tracks like the scheming “One Jump Ahead,” which features Brad Kane as the titular pauper. Lea Salonga’s Princess Jasmine offers up a wide-eyed innocence that plays off Kane’s knowing presence on the sparkling “A Whole New World”; Regina Belle and Peabo Bryson’s radio-ready rework of that ballad retains its wonder while adding lush synths." id="ember14699660" class="we-truncate we-truncate--multi-line we-truncate--interactive ember-view">  <div class="we-truncate__child">
+    <div id="ember14699661" class="ember-view">The music accompanying Disney’s animated retelling of Aladdin and the Magic Lamp is lively yet meticulously put together, incorporating traditional Arabic music ideals into set pieces and tracks like the scheming “One Jump Ahead,” which features Brad Kane as the titular pauper. Lea Salonga’s Princess Jasmine offers up a wide-eyed innocence that plays off Kane’s knowing presence on the sparkling “A Whole New World”; Regina Belle and Peabo Bryson’s radio-ready rework of that ballad retains its wonder while adding lush synths.
+</div>
+  </div>
+<!----></p>
+          </section>
+<!---->      </div>
+
+      <div class="product-hero__tracks">
+        <div id="ember14699662" class="ember-view"><table class="table">
+  <thead class="table__head table__head--tracklist t-table-body">
+    <tr>
+      <th class="table__head__heading--track-number"></th>
+      <th class="table__head__heading table__head__heading--title">TITLE</th>
+      <th class="table__head__heading table__head__heading--duration">TIME</th>
+<!---->    </tr>
+  </thead>
+    <tbody>
+        <tr data-test-selectable-item id="ember14699673" class="table__row  we-selectable-item is-available we-selectable-item--allows-interaction ember-view">    <td class="table__row__track t-table-body">
+<!----><button aria-label="Preview &quot;Arabian Nights (Soundtrack Version)&quot; by Bruce Adler" data-test-media-preview-audio id="ember14699674" class="we-media-preview ember-view">          <span class="table__row__number table__row__number--icon icon inline-player">
+            1
+          </span>
+          <svg role="presentation" height="26" width="26" id="ember14699675" class="radial-progress ember-view"><path fill="#999" d="M13 25c6.627 0 12-5.373 12-12S19.627 1 13 1 1 6.373 1 13s5.373 12 12 12zm0 1C5.82 26 0 20.18 0 13S5.82 0 13 0s13 5.82 13 13-5.82 13-13 13z"></path>
+<circle cx="13" cy="13" r="11.75" fill="transparent" stroke-width="2" stroke-dasharray="74" transform="rotate(-90 13 13)" stroke-dashoffset="74" class="radial-progress__indicator"></circle>
+</svg>
+</button>    </td>
+    <td class="table__row__name we-selectable-item__link-text">
+      <div class="spread">
+          <span data-test-truncate id="ember14699676" class="t-table-headline we-truncate we-truncate--single-line ember-view">  Arabian Nights (Soundtrack Version)
+</span>
+<!----><!---->      </div>
+        <div data-test-truncate id="ember14699677" class="t-table-body we-truncate we-truncate--single-line ember-view">  Bruce Adler
+</div>
+    </td>
+      <td class="table__row__duration t-table-body">1:19</td>
+
+</tr>
+        <tr data-test-selectable-item id="ember14699680" class="table__row  we-selectable-item is-available we-selectable-item--allows-interaction ember-view">    <td class="table__row__track t-table-body">
+<!----><button aria-label="Preview &quot;Legend of the Lamp&quot; by Alan Menken" data-test-media-preview-audio id="ember14699681" class="we-media-preview ember-view">          <span class="table__row__number table__row__number--icon icon inline-player">
+            2
+          </span>
+          <svg role="presentation" height="26" width="26" id="ember14699682" class="radial-progress ember-view"><path fill="#999" d="M13 25c6.627 0 12-5.373 12-12S19.627 1 13 1 1 6.373 1 13s5.373 12 12 12zm0 1C5.82 26 0 20.18 0 13S5.82 0 13 0s13 5.82 13 13-5.82 13-13 13z"></path>
+<circle cx="13" cy="13" r="11.75" fill="transparent" stroke-width="2" stroke-dasharray="74" transform="rotate(-90 13 13)" stroke-dashoffset="74" class="radial-progress__indicator"></circle>
+</svg>
+</button>    </td>
+    <td class="table__row__name we-selectable-item__link-text">
+      <div class="spread">
+          <span data-test-truncate id="ember14699683" class="t-table-headline we-truncate we-truncate--single-line ember-view">  Legend of the Lamp
+</span>
+<!----><!---->      </div>
+        <div data-test-truncate id="ember14699684" class="t-table-body we-truncate we-truncate--single-line ember-view">  Alan Menken
+</div>
+    </td>
+      <td class="table__row__duration t-table-body">1:25</td>
+
+</tr>
+        <tr data-test-selectable-item id="ember14699687" class="table__row  we-selectable-item is-available we-selectable-item--allows-interaction ember-view">    <td class="table__row__track t-table-body">
+<!----><button aria-label="Preview &quot;One Jump Ahead (Soundtrack Version)&quot; by Brad Kane" data-test-media-preview-audio id="ember14699688" class="we-media-preview ember-view">          <span class="table__row__number table__row__number--icon icon inline-player">
+            3
+          </span>
+          <svg role="presentation" height="26" width="26" id="ember14699689" class="radial-progress ember-view"><path fill="#999" d="M13 25c6.627 0 12-5.373 12-12S19.627 1 13 1 1 6.373 1 13s5.373 12 12 12zm0 1C5.82 26 0 20.18 0 13S5.82 0 13 0s13 5.82 13 13-5.82 13-13 13z"></path>
+<circle cx="13" cy="13" r="11.75" fill="transparent" stroke-width="2" stroke-dasharray="74" transform="rotate(-90 13 13)" stroke-dashoffset="74" class="radial-progress__indicator"></circle>
+</svg>
+</button>    </td>
+    <td class="table__row__name we-selectable-item__link-text">
+      <div class="spread">
+          <span data-test-truncate id="ember14699690" class="t-table-headline we-truncate we-truncate--single-line ember-view">  One Jump Ahead (Soundtrack Version)
+</span>
+<!----><!---->      </div>
+        <div data-test-truncate id="ember14699691" class="t-table-body we-truncate we-truncate--single-line ember-view">  Brad Kane
+</div>
+    </td>
+      <td class="table__row__duration t-table-body">2:22</td>
+
+</tr>
+        <tr data-test-selectable-item id="ember14699694" class="table__row  we-selectable-item is-available we-selectable-item--allows-interaction ember-view">    <td class="table__row__track t-table-body">
+<!----><button aria-label="Preview &quot;Street Urchins&quot; by Alan Menken" data-test-media-preview-audio id="ember14699695" class="we-media-preview ember-view">          <span class="table__row__number table__row__number--icon icon inline-player">
+            4
+          </span>
+          <svg role="presentation" height="26" width="26" id="ember14699696" class="radial-progress ember-view"><path fill="#999" d="M13 25c6.627 0 12-5.373 12-12S19.627 1 13 1 1 6.373 1 13s5.373 12 12 12zm0 1C5.82 26 0 20.18 0 13S5.82 0 13 0s13 5.82 13 13-5.82 13-13 13z"></path>
+<circle cx="13" cy="13" r="11.75" fill="transparent" stroke-width="2" stroke-dasharray="74" transform="rotate(-90 13 13)" stroke-dashoffset="74" class="radial-progress__indicator"></circle>
+</svg>
+</button>    </td>
+    <td class="table__row__name we-selectable-item__link-text">
+      <div class="spread">
+          <span data-test-truncate id="ember14699697" class="t-table-headline we-truncate we-truncate--single-line ember-view">  Street Urchins
+</span>
+<!----><!---->      </div>
+        <div data-test-truncate id="ember14699698" class="t-table-body we-truncate we-truncate--single-line ember-view">  Alan Menken
+</div>
+    </td>
+      <td class="table__row__duration t-table-body">1:52</td>
+
+</tr>
+        <tr data-test-selectable-item id="ember14699701" class="table__row  we-selectable-item is-available we-selectable-item--allows-interaction ember-view">    <td class="table__row__track t-table-body">
+<!----><button aria-label="Preview &quot;One Jump Ahead (Reprise) [Soundtrack Version]&quot; by Brad Kane" data-test-media-preview-audio id="ember14699702" class="we-media-preview ember-view">          <span class="table__row__number table__row__number--icon icon inline-player">
+            5
+          </span>
+          <svg role="presentation" height="26" width="26" id="ember14699703" class="radial-progress ember-view"><path fill="#999" d="M13 25c6.627 0 12-5.373 12-12S19.627 1 13 1 1 6.373 1 13s5.373 12 12 12zm0 1C5.82 26 0 20.18 0 13S5.82 0 13 0s13 5.82 13 13-5.82 13-13 13z"></path>
+<circle cx="13" cy="13" r="11.75" fill="transparent" stroke-width="2" stroke-dasharray="74" transform="rotate(-90 13 13)" stroke-dashoffset="74" class="radial-progress__indicator"></circle>
+</svg>
+</button>    </td>
+    <td class="table__row__name we-selectable-item__link-text">
+      <div class="spread">
+          <span data-test-truncate id="ember14699704" class="t-table-headline we-truncate we-truncate--single-line ember-view">  One Jump Ahead (Reprise) [Soundtrack Version]
+</span>
+<!----><!---->      </div>
+        <div data-test-truncate id="ember14699705" class="t-table-body we-truncate we-truncate--single-line ember-view">  Brad Kane
+</div>
+    </td>
+      <td class="table__row__duration t-table-body">1:01</td>
+
+</tr>
+        <tr data-test-selectable-item id="ember14699708" class="table__row  we-selectable-item ember-view">    <td class="table__row__track t-table-body">
+<!---->        <span class="table__row__number">
+          6
+        </span>
+    </td>
+    <td class="table__row__name we-selectable-item__link-text">
+      <div class="spread">
+          <span data-test-truncate id="ember14699709" class="t-table-headline we-truncate we-truncate--single-line ember-view">  Friend Like Me (Soundtrack Version)
+</span>
+<!----><!---->      </div>
+        <div data-test-truncate id="ember14699710" class="t-table-body we-truncate we-truncate--single-line ember-view">  Robin Williams
+</div>
+    </td>
+      <td class="table__row__duration t-table-body">2:26</td>
+
+</tr>
+        <tr data-test-selectable-item id="ember14699713" class="table__row  we-selectable-item is-available we-selectable-item--allows-interaction ember-view">    <td class="table__row__track t-table-body">
+<!----><button aria-label="Preview &quot;To Be Free&quot; by Alan Menken" data-test-media-preview-audio id="ember14699714" class="we-media-preview ember-view">          <span class="table__row__number table__row__number--icon icon inline-player">
+            7
+          </span>
+          <svg role="presentation" height="26" width="26" id="ember14699715" class="radial-progress ember-view"><path fill="#999" d="M13 25c6.627 0 12-5.373 12-12S19.627 1 13 1 1 6.373 1 13s5.373 12 12 12zm0 1C5.82 26 0 20.18 0 13S5.82 0 13 0s13 5.82 13 13-5.82 13-13 13z"></path>
+<circle cx="13" cy="13" r="11.75" fill="transparent" stroke-width="2" stroke-dasharray="74" transform="rotate(-90 13 13)" stroke-dashoffset="74" class="radial-progress__indicator"></circle>
+</svg>
+</button>    </td>
+    <td class="table__row__name we-selectable-item__link-text">
+      <div class="spread">
+          <span data-test-truncate id="ember14699716" class="t-table-headline we-truncate we-truncate--single-line ember-view">  To Be Free
+</span>
+<!----><!---->      </div>
+        <div data-test-truncate id="ember14699717" class="t-table-body we-truncate we-truncate--single-line ember-view">  Alan Menken
+</div>
+    </td>
+      <td class="table__row__duration t-table-body">1:39</td>
+
+</tr>
+        <tr data-test-selectable-item id="ember14699720" class="table__row  we-selectable-item ember-view">    <td class="table__row__track t-table-body">
+<!---->        <span class="table__row__number">
+          8
+        </span>
+    </td>
+    <td class="table__row__name we-selectable-item__link-text">
+      <div class="spread">
+          <span data-test-truncate id="ember14699721" class="t-table-headline we-truncate we-truncate--single-line ember-view">  Prince Ali (Soundtrack Version)
+</span>
+<!----><!---->      </div>
+        <div data-test-truncate id="ember14699722" class="t-table-body we-truncate we-truncate--single-line ember-view">  Robin Williams
+</div>
+    </td>
+      <td class="table__row__duration t-table-body">2:51</td>
+
+</tr>
+        <tr data-test-selectable-item id="ember14699725" class="table__row popularity-star  we-selectable-item is-available we-selectable-item--allows-interaction ember-view">    <td class="table__row__track t-table-body">
+        <span class="table__row__star-rating icon icon-star"></span>
+<button aria-label="Preview &quot;A Whole New World (Soundtrack Version)&quot; by Lea Salonga &amp; Brad Kane" data-test-media-preview-audio id="ember14699726" class="we-media-preview ember-view">          <span class="table__row__number table__row__number--icon icon inline-player">
+            9
+          </span>
+          <svg role="presentation" height="26" width="26" id="ember14699727" class="radial-progress ember-view"><path fill="#999" d="M13 25c6.627 0 12-5.373 12-12S19.627 1 13 1 1 6.373 1 13s5.373 12 12 12zm0 1C5.82 26 0 20.18 0 13S5.82 0 13 0s13 5.82 13 13-5.82 13-13 13z"></path>
+<circle cx="13" cy="13" r="11.75" fill="transparent" stroke-width="2" stroke-dasharray="74" transform="rotate(-90 13 13)" stroke-dashoffset="74" class="radial-progress__indicator"></circle>
+</svg>
+</button>    </td>
+    <td class="table__row__name we-selectable-item__link-text">
+      <div class="spread">
+          <span data-test-truncate id="ember14699728" class="t-table-headline we-truncate we-truncate--single-line ember-view">  A Whole New World (Soundtrack Version)
+</span>
+<!----><!---->      </div>
+        <div data-test-truncate id="ember14699729" class="t-table-body we-truncate we-truncate--single-line ember-view">  Lea Salonga &amp; Brad Kane
+</div>
+    </td>
+      <td class="table__row__duration t-table-body">2:40</td>
+
+</tr>
+        <tr data-test-selectable-item id="ember14699732" class="table__row  we-selectable-item is-available we-selectable-item--allows-interaction ember-view">    <td class="table__row__track t-table-body">
+<!----><button aria-label="Preview &quot;Jafar's Hour&quot; by Alan Menken" data-test-media-preview-audio id="ember14699733" class="we-media-preview ember-view">          <span class="table__row__number table__row__number--icon icon inline-player">
+            10
+          </span>
+          <svg role="presentation" height="26" width="26" id="ember14699734" class="radial-progress ember-view"><path fill="#999" d="M13 25c6.627 0 12-5.373 12-12S19.627 1 13 1 1 6.373 1 13s5.373 12 12 12zm0 1C5.82 26 0 20.18 0 13S5.82 0 13 0s13 5.82 13 13-5.82 13-13 13z"></path>
+<circle cx="13" cy="13" r="11.75" fill="transparent" stroke-width="2" stroke-dasharray="74" transform="rotate(-90 13 13)" stroke-dashoffset="74" class="radial-progress__indicator"></circle>
+</svg>
+</button>    </td>
+    <td class="table__row__name we-selectable-item__link-text">
+      <div class="spread">
+          <span data-test-truncate id="ember14699735" class="t-table-headline we-truncate we-truncate--single-line ember-view">  Jafar's Hour
+</span>
+<!----><!---->      </div>
+        <div data-test-truncate id="ember14699736" class="t-table-body we-truncate we-truncate--single-line ember-view">  Alan Menken
+</div>
+    </td>
+      <td class="table__row__duration t-table-body">2:43</td>
+
+</tr>
+        <tr data-test-selectable-item id="ember14699739" class="table__row  we-selectable-item is-available we-selectable-item--allows-interaction ember-view">    <td class="table__row__track t-table-body">
+<!----><button aria-label="Preview &quot;Prince Ali (Reprise) [Soundtrack Version]&quot; by Jonathan Freeman" data-test-media-preview-audio id="ember14699740" class="we-media-preview ember-view">          <span class="table__row__number table__row__number--icon icon inline-player">
+            11
+          </span>
+          <svg role="presentation" height="26" width="26" id="ember14699741" class="radial-progress ember-view"><path fill="#999" d="M13 25c6.627 0 12-5.373 12-12S19.627 1 13 1 1 6.373 1 13s5.373 12 12 12zm0 1C5.82 26 0 20.18 0 13S5.82 0 13 0s13 5.82 13 13-5.82 13-13 13z"></path>
+<circle cx="13" cy="13" r="11.75" fill="transparent" stroke-width="2" stroke-dasharray="74" transform="rotate(-90 13 13)" stroke-dashoffset="74" class="radial-progress__indicator"></circle>
+</svg>
+</button>    </td>
+    <td class="table__row__name we-selectable-item__link-text">
+      <div class="spread">
+          <span data-test-truncate id="ember14699742" class="t-table-headline we-truncate we-truncate--single-line ember-view">  Prince Ali (Reprise) [Soundtrack Version]
+</span>
+<!----><!---->      </div>
+        <div data-test-truncate id="ember14699743" class="t-table-body we-truncate we-truncate--single-line ember-view">  Jonathan Freeman
+</div>
+    </td>
+      <td class="table__row__duration t-table-body">1:07</td>
+
+</tr>
+        <tr data-test-selectable-item id="ember14699746" class="table__row  we-selectable-item is-available we-selectable-item--allows-interaction ember-view">    <td class="table__row__track t-table-body">
+<!----><button aria-label="Preview &quot;The Ends of the Earth&quot; by Alan Menken" data-test-media-preview-audio id="ember14699747" class="we-media-preview ember-view">          <span class="table__row__number table__row__number--icon icon inline-player">
+            12
+          </span>
+          <svg role="presentation" height="26" width="26" id="ember14699748" class="radial-progress ember-view"><path fill="#999" d="M13 25c6.627 0 12-5.373 12-12S19.627 1 13 1 1 6.373 1 13s5.373 12 12 12zm0 1C5.82 26 0 20.18 0 13S5.82 0 13 0s13 5.82 13 13-5.82 13-13 13z"></path>
+<circle cx="13" cy="13" r="11.75" fill="transparent" stroke-width="2" stroke-dasharray="74" transform="rotate(-90 13 13)" stroke-dashoffset="74" class="radial-progress__indicator"></circle>
+</svg>
+</button>    </td>
+    <td class="table__row__name we-selectable-item__link-text">
+      <div class="spread">
+          <span data-test-truncate id="ember14699749" class="t-table-headline we-truncate we-truncate--single-line ember-view">  The Ends of the Earth
+</span>
+<!----><!---->      </div>
+        <div data-test-truncate id="ember14699750" class="t-table-body we-truncate we-truncate--single-line ember-view">  Alan Menken
+</div>
+    </td>
+      <td class="table__row__duration t-table-body">1:35</td>
+
+</tr>
+        <tr data-test-selectable-item id="ember14699753" class="table__row  we-selectable-item is-available we-selectable-item--allows-interaction ember-view">    <td class="table__row__track t-table-body">
+<!----><button aria-label="Preview &quot;The Kiss&quot; by Alan Menken" data-test-media-preview-audio id="ember14699754" class="we-media-preview ember-view">          <span class="table__row__number table__row__number--icon icon inline-player">
+            13
+          </span>
+          <svg role="presentation" height="26" width="26" id="ember14699755" class="radial-progress ember-view"><path fill="#999" d="M13 25c6.627 0 12-5.373 12-12S19.627 1 13 1 1 6.373 1 13s5.373 12 12 12zm0 1C5.82 26 0 20.18 0 13S5.82 0 13 0s13 5.82 13 13-5.82 13-13 13z"></path>
+<circle cx="13" cy="13" r="11.75" fill="transparent" stroke-width="2" stroke-dasharray="74" transform="rotate(-90 13 13)" stroke-dashoffset="74" class="radial-progress__indicator"></circle>
+</svg>
+</button>    </td>
+    <td class="table__row__name we-selectable-item__link-text">
+      <div class="spread">
+          <span data-test-truncate id="ember14699756" class="t-table-headline we-truncate we-truncate--single-line ember-view">  The Kiss
+</span>
+<!----><!---->      </div>
+        <div data-test-truncate id="ember14699757" class="t-table-body we-truncate we-truncate--single-line ember-view">  Alan Menken
+</div>
+    </td>
+      <td class="table__row__duration t-table-body">1:51</td>
+
+</tr>
+        <tr data-test-selectable-item id="ember14699760" class="table__row  we-selectable-item is-available we-selectable-item--allows-interaction ember-view">    <td class="table__row__track t-table-body">
+<!----><button aria-label="Preview &quot;On a Dark Night&quot; by Alan Menken" data-test-media-preview-audio id="ember14699761" class="we-media-preview ember-view">          <span class="table__row__number table__row__number--icon icon inline-player">
+            14
+          </span>
+          <svg role="presentation" height="26" width="26" id="ember14699762" class="radial-progress ember-view"><path fill="#999" d="M13 25c6.627 0 12-5.373 12-12S19.627 1 13 1 1 6.373 1 13s5.373 12 12 12zm0 1C5.82 26 0 20.18 0 13S5.82 0 13 0s13 5.82 13 13-5.82 13-13 13z"></path>
+<circle cx="13" cy="13" r="11.75" fill="transparent" stroke-width="2" stroke-dasharray="74" transform="rotate(-90 13 13)" stroke-dashoffset="74" class="radial-progress__indicator"></circle>
+</svg>
+</button>    </td>
+    <td class="table__row__name we-selectable-item__link-text">
+      <div class="spread">
+          <span data-test-truncate id="ember14699763" class="t-table-headline we-truncate we-truncate--single-line ember-view">  On a Dark Night
+</span>
+<!----><!---->      </div>
+        <div data-test-truncate id="ember14699764" class="t-table-body we-truncate we-truncate--single-line ember-view">  Alan Menken
+</div>
+    </td>
+      <td class="table__row__duration t-table-body">2:55</td>
+
+</tr>
+        <tr data-test-selectable-item id="ember14699767" class="table__row  we-selectable-item is-available we-selectable-item--allows-interaction ember-view">    <td class="table__row__track t-table-body">
+<!----><button aria-label="Preview &quot;Jasmine Runs Away&quot; by Alan Menken" data-test-media-preview-audio id="ember14699768" class="we-media-preview ember-view">          <span class="table__row__number table__row__number--icon icon inline-player">
+            15
+          </span>
+          <svg role="presentation" height="26" width="26" id="ember14699769" class="radial-progress ember-view"><path fill="#999" d="M13 25c6.627 0 12-5.373 12-12S19.627 1 13 1 1 6.373 1 13s5.373 12 12 12zm0 1C5.82 26 0 20.18 0 13S5.82 0 13 0s13 5.82 13 13-5.82 13-13 13z"></path>
+<circle cx="13" cy="13" r="11.75" fill="transparent" stroke-width="2" stroke-dasharray="74" transform="rotate(-90 13 13)" stroke-dashoffset="74" class="radial-progress__indicator"></circle>
+</svg>
+</button>    </td>
+    <td class="table__row__name we-selectable-item__link-text">
+      <div class="spread">
+          <span data-test-truncate id="ember14699770" class="t-table-headline we-truncate we-truncate--single-line ember-view">  Jasmine Runs Away
+</span>
+<!----><!---->      </div>
+        <div data-test-truncate id="ember14699771" class="t-table-body we-truncate we-truncate--single-line ember-view">  Alan Menken
+</div>
+    </td>
+      <td class="table__row__duration t-table-body">0:46</td>
+
+</tr>
+        <tr data-test-selectable-item id="ember14699774" class="table__row  we-selectable-item is-available we-selectable-item--allows-interaction ember-view">    <td class="table__row__track t-table-body">
+<!----><button aria-label="Preview &quot;Marketplace&quot; by Alan Menken" data-test-media-preview-audio id="ember14699775" class="we-media-preview ember-view">          <span class="table__row__number table__row__number--icon icon inline-player">
+            16
+          </span>
+          <svg role="presentation" height="26" width="26" id="ember14699776" class="radial-progress ember-view"><path fill="#999" d="M13 25c6.627 0 12-5.373 12-12S19.627 1 13 1 1 6.373 1 13s5.373 12 12 12zm0 1C5.82 26 0 20.18 0 13S5.82 0 13 0s13 5.82 13 13-5.82 13-13 13z"></path>
+<circle cx="13" cy="13" r="11.75" fill="transparent" stroke-width="2" stroke-dasharray="74" transform="rotate(-90 13 13)" stroke-dashoffset="74" class="radial-progress__indicator"></circle>
+</svg>
+</button>    </td>
+    <td class="table__row__name we-selectable-item__link-text">
+      <div class="spread">
+          <span data-test-truncate id="ember14699777" class="t-table-headline we-truncate we-truncate--single-line ember-view">  Marketplace
+</span>
+<!----><!---->      </div>
+        <div data-test-truncate id="ember14699778" class="t-table-body we-truncate we-truncate--single-line ember-view">  Alan Menken
+</div>
+    </td>
+      <td class="table__row__duration t-table-body">2:37</td>
+
+</tr>
+        <tr data-test-selectable-item id="ember14699781" class="table__row  we-selectable-item is-available we-selectable-item--allows-interaction ember-view">    <td class="table__row__track t-table-body">
+<!----><button aria-label="Preview &quot;The Cave of Wonders&quot; by Alan Menken" data-test-media-preview-audio id="ember14699782" class="we-media-preview ember-view">          <span class="table__row__number table__row__number--icon icon inline-player">
+            17
+          </span>
+          <svg role="presentation" height="26" width="26" id="ember14699783" class="radial-progress ember-view"><path fill="#999" d="M13 25c6.627 0 12-5.373 12-12S19.627 1 13 1 1 6.373 1 13s5.373 12 12 12zm0 1C5.82 26 0 20.18 0 13S5.82 0 13 0s13 5.82 13 13-5.82 13-13 13z"></path>
+<circle cx="13" cy="13" r="11.75" fill="transparent" stroke-width="2" stroke-dasharray="74" transform="rotate(-90 13 13)" stroke-dashoffset="74" class="radial-progress__indicator"></circle>
+</svg>
+</button>    </td>
+    <td class="table__row__name we-selectable-item__link-text">
+      <div class="spread">
+          <span data-test-truncate id="ember14699784" class="t-table-headline we-truncate we-truncate--single-line ember-view">  The Cave of Wonders
+</span>
+<!----><!---->      </div>
+        <div data-test-truncate id="ember14699785" class="t-table-body we-truncate we-truncate--single-line ember-view">  Alan Menken
+</div>
+    </td>
+      <td class="table__row__duration t-table-body">4:57</td>
+
+</tr>
+        <tr data-test-selectable-item id="ember14699788" class="table__row  we-selectable-item is-available we-selectable-item--allows-interaction ember-view">    <td class="table__row__track t-table-body">
+<!----><button aria-label="Preview &quot;Aladdin's World&quot; by Alan Menken" data-test-media-preview-audio id="ember14699789" class="we-media-preview ember-view">          <span class="table__row__number table__row__number--icon icon inline-player">
+            18
+          </span>
+          <svg role="presentation" height="26" width="26" id="ember14699790" class="radial-progress ember-view"><path fill="#999" d="M13 25c6.627 0 12-5.373 12-12S19.627 1 13 1 1 6.373 1 13s5.373 12 12 12zm0 1C5.82 26 0 20.18 0 13S5.82 0 13 0s13 5.82 13 13-5.82 13-13 13z"></path>
+<circle cx="13" cy="13" r="11.75" fill="transparent" stroke-width="2" stroke-dasharray="74" transform="rotate(-90 13 13)" stroke-dashoffset="74" class="radial-progress__indicator"></circle>
+</svg>
+</button>    </td>
+    <td class="table__row__name we-selectable-item__link-text">
+      <div class="spread">
+          <span data-test-truncate id="ember14699791" class="t-table-headline we-truncate we-truncate--single-line ember-view">  Aladdin's World
+</span>
+<!----><!---->      </div>
+        <div data-test-truncate id="ember14699792" class="t-table-body we-truncate we-truncate--single-line ember-view">  Alan Menken
+</div>
+    </td>
+      <td class="table__row__duration t-table-body">1:51</td>
+
+</tr>
+        <tr data-test-selectable-item id="ember14699795" class="table__row  we-selectable-item is-available we-selectable-item--allows-interaction ember-view">    <td class="table__row__track t-table-body">
+<!----><button aria-label="Preview &quot;The Battle&quot; by Alan Menken" data-test-media-preview-audio id="ember14699796" class="we-media-preview ember-view">          <span class="table__row__number table__row__number--icon icon inline-player">
+            19
+          </span>
+          <svg role="presentation" height="26" width="26" id="ember14699797" class="radial-progress ember-view"><path fill="#999" d="M13 25c6.627 0 12-5.373 12-12S19.627 1 13 1 1 6.373 1 13s5.373 12 12 12zm0 1C5.82 26 0 20.18 0 13S5.82 0 13 0s13 5.82 13 13-5.82 13-13 13z"></path>
+<circle cx="13" cy="13" r="11.75" fill="transparent" stroke-width="2" stroke-dasharray="74" transform="rotate(-90 13 13)" stroke-dashoffset="74" class="radial-progress__indicator"></circle>
+</svg>
+</button>    </td>
+    <td class="table__row__name we-selectable-item__link-text">
+      <div class="spread">
+          <span data-test-truncate id="ember14699798" class="t-table-headline we-truncate we-truncate--single-line ember-view">  The Battle
+</span>
+<!----><!---->      </div>
+        <div data-test-truncate id="ember14699799" class="t-table-body we-truncate we-truncate--single-line ember-view">  Alan Menken
+</div>
+    </td>
+      <td class="table__row__duration t-table-body">3:39</td>
+
+</tr>
+        <tr data-test-selectable-item id="ember14699802" class="table__row  we-selectable-item is-available we-selectable-item--allows-interaction ember-view">    <td class="table__row__track t-table-body">
+<!----><button aria-label="Preview &quot;Happy End In Agrabah&quot; by Alan Menken" data-test-media-preview-audio id="ember14699803" class="we-media-preview ember-view">          <span class="table__row__number table__row__number--icon icon inline-player">
+            20
+          </span>
+          <svg role="presentation" height="26" width="26" id="ember14699804" class="radial-progress ember-view"><path fill="#999" d="M13 25c6.627 0 12-5.373 12-12S19.627 1 13 1 1 6.373 1 13s5.373 12 12 12zm0 1C5.82 26 0 20.18 0 13S5.82 0 13 0s13 5.82 13 13-5.82 13-13 13z"></path>
+<circle cx="13" cy="13" r="11.75" fill="transparent" stroke-width="2" stroke-dasharray="74" transform="rotate(-90 13 13)" stroke-dashoffset="74" class="radial-progress__indicator"></circle>
+</svg>
+</button>    </td>
+    <td class="table__row__name we-selectable-item__link-text">
+      <div class="spread">
+          <span data-test-truncate id="ember14699805" class="t-table-headline we-truncate we-truncate--single-line ember-view">  Happy End In Agrabah
+</span>
+<!----><!---->      </div>
+        <div data-test-truncate id="ember14699806" class="t-table-body we-truncate we-truncate--single-line ember-view">  Alan Menken
+</div>
+    </td>
+      <td class="table__row__duration t-table-body">4:15</td>
+
+</tr>
+        <tr data-test-selectable-item id="ember14699809" class="table__row  we-selectable-item is-available we-selectable-item--allows-interaction ember-view">    <td class="table__row__track t-table-body">
+<!----><button aria-label="Preview &quot;A Whole New World (Aladdin's Theme) [Soundtrack Version]&quot; by Peabo Bryson &amp; Regina Belle" data-test-media-preview-audio id="ember14699810" class="we-media-preview ember-view">          <span class="table__row__number table__row__number--icon icon inline-player">
+            21
+          </span>
+          <svg role="presentation" height="26" width="26" id="ember14699811" class="radial-progress ember-view"><path fill="#999" d="M13 25c6.627 0 12-5.373 12-12S19.627 1 13 1 1 6.373 1 13s5.373 12 12 12zm0 1C5.82 26 0 20.18 0 13S5.82 0 13 0s13 5.82 13 13-5.82 13-13 13z"></path>
+<circle cx="13" cy="13" r="11.75" fill="transparent" stroke-width="2" stroke-dasharray="74" transform="rotate(-90 13 13)" stroke-dashoffset="74" class="radial-progress__indicator"></circle>
+</svg>
+</button>    </td>
+    <td class="table__row__name we-selectable-item__link-text">
+      <div class="spread">
+          <span data-test-truncate id="ember14699812" class="t-table-headline we-truncate we-truncate--single-line ember-view">  A Whole New World (Aladdin's Theme) [Soundtrack Version]
+</span>
+<!----><!---->      </div>
+        <div data-test-truncate id="ember14699813" class="t-table-body we-truncate we-truncate--single-line ember-view">  Peabo Bryson &amp; Regina Belle
+</div>
+    </td>
+      <td class="table__row__duration t-table-body">4:10</td>
+
+</tr>
+    </tbody>
+</table>
+</div>
+
+        <ul class="link-list link-list--small-bordered">
+            <li class="link-list__item">
+                <p class="t-sosumi medium-hide">
+                    21 Songs
+                                  </p>
+              <p class="t-sosumi">℗ 1992 Buena Vista Pictures Distribution, Inc.</p>
+            </li>
+
+            <li class="link-list__item medium-hide">
+              <button aria-label="View Aladdin (Original Soundtrack) in iTunes" class="link">Also Available in iTunes</button>
+            </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!---->
+<!---->
+  <section class="l-content-width section">
+    <div class="section__nav">
+      <h2 class="t-section-headline">
+        Listeners Also Played
+      </h2>
+      <a data-test-we-see-all rel="nofollow" data-we-link-to-exclude href="/us/album/aladdin-original-soundtrack/156088077/see-all/listeners-also-bought" id="ember14699831" style="display: none;" class="link section__nav__see-all-link ember-view">See All</a>
+    </div>
+
+    <div class="l-row l-row--peek">
+  
+            <a href="https://itunes.apple.com/us/album/beauty-and-the-beast-soundtrack-from-the-motion-picture/390433307" data-test-we-lockup-kind="album" data-test-we-lockup id="ember14699835" class="we-lockup targeted-link l-column small-2 medium-3 large-2 ember-view">    <picture data-test-we-artwork id="ember14699836" class="we-lockup__artwork we-artwork--lockup we-artwork--fullwidth we-artwork ember-view">      <source srcset="https://is2-ssl.mzstatic.com/image/thumb/Features/30/ef/28/dj.bgadzkrd.jpg/146x0w.jpg 1x,https://is2-ssl.mzstatic.com/image/thumb/Features/30/ef/28/dj.bgadzkrd.jpg/292x0w.jpg 2x,https://is2-ssl.mzstatic.com/image/thumb/Features/30/ef/28/dj.bgadzkrd.jpg/438x0w.jpg 3x" media="(min-width: 1069px)">
+<!---->      <source srcset="https://is2-ssl.mzstatic.com/image/thumb/Features/30/ef/28/dj.bgadzkrd.jpg/158x0w.jpg 1x,https://is2-ssl.mzstatic.com/image/thumb/Features/30/ef/28/dj.bgadzkrd.jpg/316x0w.jpg 2x,https://is2-ssl.mzstatic.com/image/thumb/Features/30/ef/28/dj.bgadzkrd.jpg/474x0w.jpg 3x" media="(min-width: 736px)">
+<!---->      <source srcset="https://is2-ssl.mzstatic.com/image/thumb/Features/30/ef/28/dj.bgadzkrd.jpg/200x0w.jpg 1x,https://is2-ssl.mzstatic.com/image/thumb/Features/30/ef/28/dj.bgadzkrd.jpg/400x0w.jpg 2x,https://is2-ssl.mzstatic.com/image/thumb/Features/30/ef/28/dj.bgadzkrd.jpg/600x0w.jpg 3x">
+      <img src="https://is2-ssl.mzstatic.com/image/thumb/Features/30/ef/28/dj.bgadzkrd.jpg/200x0w.jpg" style="background-color: #12111c;" alt class="we-artwork__image ember14699836">
+  <style>
+    .ember14699836 {
+        width: 200px;
+        height: 200px;
+      }
+@media (min-width: 736px) {
+          .ember14699836 {
+        width: 158px;
+        height: 158px;
+      }
+        }
+@media (min-width: 1069px) {
+          .ember14699836 {
+        width: 146px;
+        height: 146px;
+      }
+        }
+  </style>
+</picture>
+
+<!---->
+    <h3 class="we-lockup__title targeted-link__target we-truncate we-truncate--single-line">Beauty and the Beast (Soundtrack from the Motion Picture)</h3>
+
+  <h4 class="we-truncate we-truncate--single-line we-lockup__subtitle t-subbody targeted-link__target">Alan Menken</h4>
+</a>
+
+
+  
+            <a href="https://itunes.apple.com/us/album/little-mermaid-original-walt-disney-records-soundtrack/193376473" data-test-we-lockup-kind="album" data-test-we-lockup id="ember14699841" class="we-lockup targeted-link l-column small-2 medium-3 large-2 ember-view">    <picture data-test-we-artwork id="ember14699842" class="we-lockup__artwork we-artwork--lockup we-artwork--fullwidth we-artwork ember-view">      <source srcset="https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/6a/b1/30/6ab13005-7a6f-6f6d-fb87-6725da3f0ec1/dj.zegzawxm.jpg/146x0w.jpg 1x,https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/6a/b1/30/6ab13005-7a6f-6f6d-fb87-6725da3f0ec1/dj.zegzawxm.jpg/292x0w.jpg 2x,https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/6a/b1/30/6ab13005-7a6f-6f6d-fb87-6725da3f0ec1/dj.zegzawxm.jpg/438x0w.jpg 3x" media="(min-width: 1069px)">
+<!---->      <source srcset="https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/6a/b1/30/6ab13005-7a6f-6f6d-fb87-6725da3f0ec1/dj.zegzawxm.jpg/158x0w.jpg 1x,https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/6a/b1/30/6ab13005-7a6f-6f6d-fb87-6725da3f0ec1/dj.zegzawxm.jpg/316x0w.jpg 2x,https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/6a/b1/30/6ab13005-7a6f-6f6d-fb87-6725da3f0ec1/dj.zegzawxm.jpg/474x0w.jpg 3x" media="(min-width: 736px)">
+<!---->      <source srcset="https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/6a/b1/30/6ab13005-7a6f-6f6d-fb87-6725da3f0ec1/dj.zegzawxm.jpg/200x0w.jpg 1x,https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/6a/b1/30/6ab13005-7a6f-6f6d-fb87-6725da3f0ec1/dj.zegzawxm.jpg/400x0w.jpg 2x,https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/6a/b1/30/6ab13005-7a6f-6f6d-fb87-6725da3f0ec1/dj.zegzawxm.jpg/600x0w.jpg 3x">
+      <img src="https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/6a/b1/30/6ab13005-7a6f-6f6d-fb87-6725da3f0ec1/dj.zegzawxm.jpg/200x0w.jpg" style="background-color: #71a4d7;" alt class="we-artwork__image ember14699842">
+  <style>
+    .ember14699842 {
+        width: 200px;
+        height: 200px;
+      }
+@media (min-width: 736px) {
+          .ember14699842 {
+        width: 158px;
+        height: 158px;
+      }
+        }
+@media (min-width: 1069px) {
+          .ember14699842 {
+        width: 146px;
+        height: 146px;
+      }
+        }
+  </style>
+</picture>
+
+<!---->
+    <h3 class="we-lockup__title targeted-link__target we-truncate we-truncate--single-line">The Little Mermaid (An Original Walt Disney Records Soundtrack) [Special Edition]</h3>
+
+  <h4 class="we-truncate we-truncate--single-line we-lockup__subtitle t-subbody targeted-link__target">Alan Menken</h4>
+</a>
+
+
+  
+            <a href="https://itunes.apple.com/us/album/beauty-and-the-beast-the-broadway-musical/156774405" data-test-we-lockup-kind="album" data-test-we-lockup id="ember14699847" class="we-lockup targeted-link l-column small-2 medium-3 large-2 ember-view">    <picture data-test-we-artwork id="ember14699848" class="we-lockup__artwork we-artwork--lockup we-artwork--fullwidth we-artwork ember-view">      <source srcset="https://is5-ssl.mzstatic.com/image/thumb/Features/95/fc/46/dj.eqiyiumv.jpg/146x0w.jpg 1x,https://is5-ssl.mzstatic.com/image/thumb/Features/95/fc/46/dj.eqiyiumv.jpg/292x0w.jpg 2x,https://is5-ssl.mzstatic.com/image/thumb/Features/95/fc/46/dj.eqiyiumv.jpg/438x0w.jpg 3x" media="(min-width: 1069px)">
+<!---->      <source srcset="https://is5-ssl.mzstatic.com/image/thumb/Features/95/fc/46/dj.eqiyiumv.jpg/158x0w.jpg 1x,https://is5-ssl.mzstatic.com/image/thumb/Features/95/fc/46/dj.eqiyiumv.jpg/316x0w.jpg 2x,https://is5-ssl.mzstatic.com/image/thumb/Features/95/fc/46/dj.eqiyiumv.jpg/474x0w.jpg 3x" media="(min-width: 736px)">
+<!---->      <source srcset="https://is5-ssl.mzstatic.com/image/thumb/Features/95/fc/46/dj.eqiyiumv.jpg/200x0w.jpg 1x,https://is5-ssl.mzstatic.com/image/thumb/Features/95/fc/46/dj.eqiyiumv.jpg/400x0w.jpg 2x,https://is5-ssl.mzstatic.com/image/thumb/Features/95/fc/46/dj.eqiyiumv.jpg/600x0w.jpg 3x">
+      <img src="https://is5-ssl.mzstatic.com/image/thumb/Features/95/fc/46/dj.eqiyiumv.jpg/200x0w.jpg" style="background-color: #050706;" alt class="we-artwork__image ember14699848">
+  <style>
+    .ember14699848 {
+        width: 200px;
+        height: 201px;
+      }
+@media (min-width: 736px) {
+          .ember14699848 {
+        width: 158px;
+        height: 158px;
+      }
+        }
+@media (min-width: 1069px) {
+          .ember14699848 {
+        width: 146px;
+        height: 146px;
+      }
+        }
+  </style>
+</picture>
+
+<!---->
+    <h3 class="we-lockup__title targeted-link__target we-truncate we-truncate--single-line">Beauty and the Beast (The Broadway Musical)</h3>
+
+  <h4 class="we-truncate we-truncate--single-line we-lockup__subtitle t-subbody targeted-link__target">Various Artists</h4>
+</a>
+
+
+  
+            <a href="https://itunes.apple.com/us/album/pocahontas-original-soundtrack/191902361" data-test-we-lockup-kind="album" data-test-we-lockup id="ember14699853" class="we-lockup targeted-link l-column small-2 medium-3 large-2 ember-view">    <picture data-test-we-artwork id="ember14699854" class="we-lockup__artwork we-artwork--lockup we-artwork--fullwidth we-artwork ember-view">      <source srcset="https://is1-ssl.mzstatic.com/image/thumb/Features/37/f9/d5/dj.mqzodfop.jpg/146x0w.jpg 1x,https://is1-ssl.mzstatic.com/image/thumb/Features/37/f9/d5/dj.mqzodfop.jpg/292x0w.jpg 2x,https://is1-ssl.mzstatic.com/image/thumb/Features/37/f9/d5/dj.mqzodfop.jpg/438x0w.jpg 3x" media="(min-width: 1069px)">
+<!---->      <source srcset="https://is1-ssl.mzstatic.com/image/thumb/Features/37/f9/d5/dj.mqzodfop.jpg/158x0w.jpg 1x,https://is1-ssl.mzstatic.com/image/thumb/Features/37/f9/d5/dj.mqzodfop.jpg/316x0w.jpg 2x,https://is1-ssl.mzstatic.com/image/thumb/Features/37/f9/d5/dj.mqzodfop.jpg/474x0w.jpg 3x" media="(min-width: 736px)">
+<!---->      <source srcset="https://is1-ssl.mzstatic.com/image/thumb/Features/37/f9/d5/dj.mqzodfop.jpg/200x0w.jpg 1x,https://is1-ssl.mzstatic.com/image/thumb/Features/37/f9/d5/dj.mqzodfop.jpg/400x0w.jpg 2x,https://is1-ssl.mzstatic.com/image/thumb/Features/37/f9/d5/dj.mqzodfop.jpg/600x0w.jpg 3x">
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Features/37/f9/d5/dj.mqzodfop.jpg/200x0w.jpg" style="background-color: #050d10;" alt class="we-artwork__image ember14699854">
+  <style>
+    .ember14699854 {
+        width: 200px;
+        height: 200px;
+      }
+@media (min-width: 736px) {
+          .ember14699854 {
+        width: 158px;
+        height: 158px;
+      }
+        }
+@media (min-width: 1069px) {
+          .ember14699854 {
+        width: 146px;
+        height: 146px;
+      }
+        }
+  </style>
+</picture>
+
+<!---->
+    <h3 class="we-lockup__title targeted-link__target we-truncate we-truncate--single-line">Pocahontas (Original Soundtrack)</h3>
+
+  <h4 class="we-truncate we-truncate--single-line we-lockup__subtitle t-subbody targeted-link__target">Various Artists</h4>
+</a>
+
+
+  
+            <a href="https://itunes.apple.com/us/album/disneys-aladdin-a-musical-spectacular/609145793" data-test-we-lockup-kind="album" data-test-we-lockup id="ember14699859" class="we-lockup targeted-link l-column small-2 medium-3 large-2 ember-view">    <picture data-test-we-artwork id="ember14699860" class="we-lockup__artwork we-artwork--lockup we-artwork--fullwidth we-artwork ember-view">      <source srcset="https://is1-ssl.mzstatic.com/image/thumb/Music/v4/1c/7d/87/1c7d873c-85f5-f653-213c-9e370d7285e2/UMG_cvrart_00050086100378_01_RGB72_1500x1500_13DMGIM03813.jpg/146x0w.jpg 1x,https://is1-ssl.mzstatic.com/image/thumb/Music/v4/1c/7d/87/1c7d873c-85f5-f653-213c-9e370d7285e2/UMG_cvrart_00050086100378_01_RGB72_1500x1500_13DMGIM03813.jpg/292x0w.jpg 2x,https://is1-ssl.mzstatic.com/image/thumb/Music/v4/1c/7d/87/1c7d873c-85f5-f653-213c-9e370d7285e2/UMG_cvrart_00050086100378_01_RGB72_1500x1500_13DMGIM03813.jpg/438x0w.jpg 3x" media="(min-width: 1069px)">
+<!---->      <source srcset="https://is1-ssl.mzstatic.com/image/thumb/Music/v4/1c/7d/87/1c7d873c-85f5-f653-213c-9e370d7285e2/UMG_cvrart_00050086100378_01_RGB72_1500x1500_13DMGIM03813.jpg/158x0w.jpg 1x,https://is1-ssl.mzstatic.com/image/thumb/Music/v4/1c/7d/87/1c7d873c-85f5-f653-213c-9e370d7285e2/UMG_cvrart_00050086100378_01_RGB72_1500x1500_13DMGIM03813.jpg/316x0w.jpg 2x,https://is1-ssl.mzstatic.com/image/thumb/Music/v4/1c/7d/87/1c7d873c-85f5-f653-213c-9e370d7285e2/UMG_cvrart_00050086100378_01_RGB72_1500x1500_13DMGIM03813.jpg/474x0w.jpg 3x" media="(min-width: 736px)">
+<!---->      <source srcset="https://is1-ssl.mzstatic.com/image/thumb/Music/v4/1c/7d/87/1c7d873c-85f5-f653-213c-9e370d7285e2/UMG_cvrart_00050086100378_01_RGB72_1500x1500_13DMGIM03813.jpg/200x0w.jpg 1x,https://is1-ssl.mzstatic.com/image/thumb/Music/v4/1c/7d/87/1c7d873c-85f5-f653-213c-9e370d7285e2/UMG_cvrart_00050086100378_01_RGB72_1500x1500_13DMGIM03813.jpg/400x0w.jpg 2x,https://is1-ssl.mzstatic.com/image/thumb/Music/v4/1c/7d/87/1c7d873c-85f5-f653-213c-9e370d7285e2/UMG_cvrart_00050086100378_01_RGB72_1500x1500_13DMGIM03813.jpg/600x0w.jpg 3x">
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/v4/1c/7d/87/1c7d873c-85f5-f653-213c-9e370d7285e2/UMG_cvrart_00050086100378_01_RGB72_1500x1500_13DMGIM03813.jpg/200x0w.jpg" style="background-color: #171717;" alt class="we-artwork__image ember14699860">
+  <style>
+    .ember14699860 {
+        width: 200px;
+        height: 200px;
+      }
+@media (min-width: 736px) {
+          .ember14699860 {
+        width: 158px;
+        height: 158px;
+      }
+        }
+@media (min-width: 1069px) {
+          .ember14699860 {
+        width: 146px;
+        height: 146px;
+      }
+        }
+  </style>
+</picture>
+
+<!---->
+    <h3 class="we-lockup__title targeted-link__target we-truncate we-truncate--single-line">Disney's Aladdin: A Musical Spectacular</h3>
+
+  <h4 class="we-truncate we-truncate--single-line we-lockup__subtitle t-subbody targeted-link__target">Various Artists</h4>
+</a>
+
+
+  
+            <a href="https://itunes.apple.com/us/album/sleeping-beauty-original-soundtrack/156087691" data-test-we-lockup-kind="album" data-test-we-lockup id="ember14699865" class="we-lockup targeted-link l-column small-2 medium-3 large-2 ember-view">    <picture data-test-we-artwork id="ember14699866" class="we-lockup__artwork we-artwork--lockup we-artwork--fullwidth we-artwork ember-view">      <source srcset="https://is4-ssl.mzstatic.com/image/thumb/Music62/v4/63/96/9c/63969c62-f917-afb9-27e8-2b45099aeb66/dj.pbwtrftv.jpg/146x0w.jpg 1x,https://is4-ssl.mzstatic.com/image/thumb/Music62/v4/63/96/9c/63969c62-f917-afb9-27e8-2b45099aeb66/dj.pbwtrftv.jpg/292x0w.jpg 2x,https://is4-ssl.mzstatic.com/image/thumb/Music62/v4/63/96/9c/63969c62-f917-afb9-27e8-2b45099aeb66/dj.pbwtrftv.jpg/438x0w.jpg 3x" media="(min-width: 1069px)">
+<!---->      <source srcset="https://is4-ssl.mzstatic.com/image/thumb/Music62/v4/63/96/9c/63969c62-f917-afb9-27e8-2b45099aeb66/dj.pbwtrftv.jpg/158x0w.jpg 1x,https://is4-ssl.mzstatic.com/image/thumb/Music62/v4/63/96/9c/63969c62-f917-afb9-27e8-2b45099aeb66/dj.pbwtrftv.jpg/316x0w.jpg 2x,https://is4-ssl.mzstatic.com/image/thumb/Music62/v4/63/96/9c/63969c62-f917-afb9-27e8-2b45099aeb66/dj.pbwtrftv.jpg/474x0w.jpg 3x" media="(min-width: 736px)">
+<!---->      <source srcset="https://is4-ssl.mzstatic.com/image/thumb/Music62/v4/63/96/9c/63969c62-f917-afb9-27e8-2b45099aeb66/dj.pbwtrftv.jpg/200x0w.jpg 1x,https://is4-ssl.mzstatic.com/image/thumb/Music62/v4/63/96/9c/63969c62-f917-afb9-27e8-2b45099aeb66/dj.pbwtrftv.jpg/400x0w.jpg 2x,https://is4-ssl.mzstatic.com/image/thumb/Music62/v4/63/96/9c/63969c62-f917-afb9-27e8-2b45099aeb66/dj.pbwtrftv.jpg/600x0w.jpg 3x">
+      <img src="https://is4-ssl.mzstatic.com/image/thumb/Music62/v4/63/96/9c/63969c62-f917-afb9-27e8-2b45099aeb66/dj.pbwtrftv.jpg/200x0w.jpg" style="background-color: #40427d;" alt class="we-artwork__image ember14699866">
+  <style>
+    .ember14699866 {
+        width: 200px;
+        height: 174px;
+      }
+@media (min-width: 736px) {
+          .ember14699866 {
+        width: 158px;
+        height: 137px;
+      }
+        }
+@media (min-width: 1069px) {
+          .ember14699866 {
+        width: 146px;
+        height: 127px;
+      }
+        }
+  </style>
+</picture>
+
+<!---->
+    <h3 class="we-lockup__title targeted-link__target we-truncate we-truncate--single-line">Sleeping Beauty (Original Soundtrack)</h3>
+
+  <h4 class="we-truncate we-truncate--single-line we-lockup__subtitle t-subbody targeted-link__target">Various Artists</h4>
+</a>
+
+
+    </div>
+  </section>
+</div></div>
+</div></div></div></div>
+  <!---->
+</main>
+</div><footer id="ac-globalfooter" class="no-js" role="contentinfo" lang="en-US" dir="ltr"><div class="ac-gf-content"><link rel="stylesheet" type="text/css" href="https://www.apple.com/ac/globalfooter/3/en_US/styles/ac-globalfooter.built.css">
+<section class="ac-gf-footer">
+	<div class="ac-gf-footer-shop" x-ms-format-detection="none">
+		More ways to shop: Visit an <a href="/retail/">Apple Store</a>, <span class="nowrap">call 1-800-MY-APPLE, or <a href="https://locate.apple.com/">find a reseller</a></span>.
+	</div>
+	<div class="ac-gf-footer-locale">
+		<a class="ac-gf-footer-locale-link" href="//www.apple.com/choose-your-country/" title="Choose your country or region" aria-label="United States. Choose your country or region"><span class="ac-gf-footer-locale-flag" data-hires="false"></span>United States</a>
+	</div>
+	<div class="ac-gf-footer-legal">
+		<div class="ac-gf-footer-legal-copyright">Copyright © 2017 Apple Inc. All rights reserved.</div>
+		<div class="ac-gf-footer-legal-links">
+			<a class="ac-gf-footer-legal-link" href="//www.apple.com/privacy/privacy-policy/">Privacy Policy</a>
+			<a class="ac-gf-footer-legal-link" href="//www.apple.com/legal/internet-services/terms/site.html">Terms of Use</a>
+			<a class="ac-gf-footer-legal-link" href="//www.apple.com/us/shop/goto/help/sales_refunds">Sales and Refunds</a>
+			<a class="ac-gf-footer-legal-link" href="//www.apple.com/legal/">Legal</a>
+			<a class="ac-gf-footer-legal-link" href="//www.apple.com/sitemap/">Site Map</a>
+		</div>
+	</div>
+</section>
+<script type="text/javascript" src="https://www.apple.com/ac/globalfooter/3/en_US/scripts/ac-globalfooter.built.js" async></script>
+</div></footer><script type="fastboot/shoebox" id="shoebox-ember-data-store">{"data":{"type":"product/album","id":"156088077","attributes":{"artistName":"Various Artists","contentRatingsBySystem":{},"copyright":"℗ 1992 Buena Vista Pictures Distribution, Inc.","itunesNotes":{"standard":"The music accompanying Disney’s animated retelling of Aladdin and the Magic Lamp is lively yet meticulously put together, incorporating traditional Arabic music ideals into set pieces and tracks like the scheming “One Jump Ahead,” which features Brad Kane as the titular pauper. Lea Salonga’s Princess Jasmine offers up a wide-eyed innocence that plays off Kane’s knowing presence on the sparkling “A Whole New World”; Regina Belle and Peabo Bryson’s radio-ready rework of that ballad retains its wonder while adding lush synths.","short":"Meticulously put-together music for a whole new world."},"name":"Aladdin (Original Soundtrack)","releaseDate":"1992-01-01","trackCount":21,"url":"https://itunes.apple.com/us/album/aladdin-original-soundtrack/156088077","userRating":{"value":4.2,"ratingCount":1072,"ratingCountList":[100,57,74,115,726],"ariaLabelForRatings":"4.2 stars","totalNumberOfReviews":278}},"relationships":{"offers":{"data":[{"type":"offer","id":"st2302271"},{"type":"offer","id":"st2302272"}]},"artist":{"data":{"type":"lockup/artist","id":"4035426"}},"artwork":{"data":{"type":"image","id":"st2302273"}},"genres":{"data":[{"type":"genre","id":"st12193"},{"type":"genre","id":"st2645"},{"type":"genre","id":"st3277562"}]},"listenersAlsoBought":{"data":[{"type":"lockup/album","id":"390433307"},{"type":"lockup/album","id":"193376473"},{"type":"lockup/album","id":"156774405"},{"type":"lockup/album","id":"191902361"},{"type":"lockup/album","id":"609145793"},{"type":"lockup/album","id":"156087691"},{"type":"lockup/album","id":"156087238"},{"type":"lockup/album","id":"191902616"},{"type":"lockup/album","id":"191999705"},{"type":"lockup/album","id":"156089366"}]},"reviews":{"data":[{"type":"review","id":"st14699248"},{"type":"review","id":"st14699249"},{"type":"review","id":"st14699250"},{"type":"review","id":"st14699251"},{"type":"review","id":"st14699252"}]},"songs":{"data":[{"type":"song","id":"156088079"},{"type":"song","id":"156088084"},{"type":"song","id":"156088087"},{"type":"song","id":"156088092"},{"type":"song","id":"156088096"},{"type":"song","id":"156088099"},{"type":"song","id":"156088102"},{"type":"song","id":"156088105"},{"type":"song","id":"156088108"},{"type":"song","id":"156088112"},{"type":"song","id":"156088115"},{"type":"song","id":"156088120"},{"type":"song","id":"156088123"},{"type":"song","id":"156088126"},{"type":"song","id":"156088129"},{"type":"song","id":"156088132"},{"type":"song","id":"156088135"},{"type":"song","id":"156088138"},{"type":"song","id":"156088141"},{"type":"song","id":"156088144"},{"type":"song","id":"156088147"}]}}},"included":[{"type":"offer","id":"st2302271","attributes":{"actionText":{"short":"Buy","medium":"Buy","long":"Buy Album","downloaded":"Downloaded","downloading":"Downloading"},"buyParams":"productType=P\u0026price=9990\u0026salableAdamId=156088077\u0026pricingParameters=PLUS\u0026pg=default","price":9.99,"priceFormatted":"$9.99","type":"buy","variant":"PLUS"},"relationships":{}},{"type":"offer","id":"st2302272","attributes":{"actionText":{"short":"Get","medium":"Get","long":"Get Album","downloaded":"Downloaded","downloading":"Downloading"},"buyParams":"productType=P\u0026price=0\u0026salableAdamId=156088077\u0026pricingParameters=SUBS\u0026pg=default","price":0,"priceFormatted":"$0.00","type":"subscription"},"relationships":{}},{"type":"offer","id":"st14699253","attributes":{"actionText":{"short":"Buy","medium":"Buy","long":"Buy Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":30,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/70/e1/e1/70e1e101-d5cd-af7a-7889-19b02fec7986/mzaf_3515535002039280768.plus.aac.p.m4a"},"size":3303495,"duration":79}],"buyParams":"productType=S\u0026price=1290\u0026salableAdamId=156088079\u0026pricingParameters=PLUS\u0026pg=default","price":1.29,"priceFormatted":"$1.29","type":"buy","variant":"PLUS"},"relationships":{}},{"type":"offer","id":"st14699254","attributes":{"actionText":{"short":"Get","medium":"Get","long":"Get Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":30,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/70/e1/e1/70e1e101-d5cd-af7a-7889-19b02fec7986/mzaf_3515535002039280768.plus.aac.p.m4a"},"size":3303495,"duration":79},{"flavor":null,"size":2739645,"duration":79},{"flavor":null,"size":660354,"duration":79},{"flavor":null,"size":1325708,"duration":79}],"buyParams":"productType=S\u0026price=0\u0026salableAdamId=156088079\u0026pricingParameters=SUBS\u0026pg=default","price":0,"priceFormatted":"$0.00","type":"subscription"},"relationships":{}},{"type":"offer","id":"st14699255","attributes":{"actionText":{"short":"Buy","medium":"Buy","long":"Buy Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":30,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/9e/98/47/9e9847ab-e56c-edb1-d351-b584b8c4df90/mzaf_5820084875054185340.plus.aac.p.m4a"},"size":3397895,"duration":85}],"buyParams":"productType=S\u0026price=1290\u0026salableAdamId=156088084\u0026pricingParameters=PLUS\u0026pg=default","price":1.29,"priceFormatted":"$1.29","type":"buy","variant":"PLUS"},"relationships":{}},{"type":"offer","id":"st14699256","attributes":{"actionText":{"short":"Get","medium":"Get","long":"Get Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":30,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/9e/98/47/9e9847ab-e56c-edb1-d351-b584b8c4df90/mzaf_5820084875054185340.plus.aac.p.m4a"},"size":3397895,"duration":85},{"flavor":null,"size":2833537,"duration":85},{"flavor":null,"size":706575,"duration":85},{"flavor":null,"size":1421041,"duration":85}],"buyParams":"productType=S\u0026price=0\u0026salableAdamId=156088084\u0026pricingParameters=SUBS\u0026pg=default","price":0,"priceFormatted":"$0.00","type":"subscription"},"relationships":{}},{"type":"offer","id":"st14699257","attributes":{"actionText":{"short":"Buy","medium":"Buy","long":"Buy Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":30,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/0c/be/55/0cbe55bc-d620-c8eb-993f-4cb28b2290d7/mzaf_2025813842869417420.plus.aac.p.m4a"},"size":5463659,"duration":142}],"buyParams":"productType=S\u0026price=1290\u0026salableAdamId=156088087\u0026pricingParameters=PLUS\u0026pg=default","price":1.29,"priceFormatted":"$1.29","type":"buy","variant":"PLUS"},"relationships":{}},{"type":"offer","id":"st14699258","attributes":{"actionText":{"short":"Get","medium":"Get","long":"Get Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":30,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/0c/be/55/0cbe55bc-d620-c8eb-993f-4cb28b2290d7/mzaf_2025813842869417420.plus.aac.p.m4a"},"size":5463659,"duration":142},{"flavor":null,"size":4894369,"duration":142},{"flavor":null,"size":1248316,"duration":142},{"flavor":null,"size":2400102,"duration":142}],"buyParams":"productType=S\u0026price=0\u0026salableAdamId=156088087\u0026pricingParameters=SUBS\u0026pg=default","price":0,"priceFormatted":"$0.00","type":"subscription"},"relationships":{}},{"type":"offer","id":"st14699259","attributes":{"actionText":{"short":"Buy","medium":"Buy","long":"Buy Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":30,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/f2/4d/5a/f24d5a0f-515a-4871-a00e-8a27232d5b0b/mzaf_3318047057315811602.plus.aac.p.m4a"},"size":4630459,"duration":112}],"buyParams":"productType=S\u0026price=1290\u0026salableAdamId=156088092\u0026pricingParameters=PLUS\u0026pg=default","price":1.29,"priceFormatted":"$1.29","type":"buy","variant":"PLUS"},"relationships":{}},{"type":"offer","id":"st14699260","attributes":{"actionText":{"short":"Get","medium":"Get","long":"Get Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":30,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/f2/4d/5a/f24d5a0f-515a-4871-a00e-8a27232d5b0b/mzaf_3318047057315811602.plus.aac.p.m4a"},"size":4630459,"duration":112},{"flavor":null,"size":4063709,"duration":112},{"flavor":null,"size":949468,"duration":112},{"flavor":null,"size":1976084,"duration":112}],"buyParams":"productType=S\u0026price=0\u0026salableAdamId=156088092\u0026pricingParameters=SUBS\u0026pg=default","price":0,"priceFormatted":"$0.00","type":"subscription"},"relationships":{}},{"type":"offer","id":"st14699261","attributes":{"actionText":{"short":"Buy","medium":"Buy","long":"Buy Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":30,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/9b/f1/92/9bf192ee-f854-731e-674b-57c8e84093b8/mzaf_2229253715220493197.plus.aac.p.m4a"},"size":2541034,"duration":61}],"buyParams":"productType=S\u0026price=1290\u0026salableAdamId=156088096\u0026pricingParameters=PLUS\u0026pg=default","price":1.29,"priceFormatted":"$1.29","type":"buy","variant":"PLUS"},"relationships":{}},{"type":"offer","id":"st14699262","attributes":{"actionText":{"short":"Get","medium":"Get","long":"Get Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":30,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/9b/f1/92/9bf192ee-f854-731e-674b-57c8e84093b8/mzaf_2229253715220493197.plus.aac.p.m4a"},"size":2541034,"duration":61},{"flavor":null,"size":1978728,"duration":61},{"flavor":null,"size":497216,"duration":61},{"flavor":null,"size":991238,"duration":61}],"buyParams":"productType=S\u0026price=0\u0026salableAdamId=156088096\u0026pricingParameters=SUBS\u0026pg=default","price":0,"priceFormatted":"$0.00","type":"subscription"},"relationships":{}},{"type":"offer","id":"st14699263","attributes":{"actionText":{"short":"Buy","medium":"Buy","long":"Buy Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":30,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/f5/dc/93/f5dc93d8-3e3f-10bc-3079-65191b141569/mzaf_1443830731255406735.plus.aac.p.m4a"},"size":5552602,"duration":146}],"buyParams":"productType=S\u0026price=1290\u0026salableAdamId=156088099\u0026pricingParameters=PLUS\u0026pg=default","price":1.29,"priceFormatted":"$1.29","type":"buy","variant":"PLUS"},"relationships":{}},{"type":"offer","id":"st14699264","attributes":{"actionText":{"short":"Buy","medium":"Buy","long":"Buy Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":30,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/9a/3d/7d/9a3d7d80-f3b4-7270-d9ae-505d66f7c005/mzaf_2689792186871432577.plus.aac.p.m4a"},"size":4079099,"duration":99}],"buyParams":"productType=S\u0026price=1290\u0026salableAdamId=156088102\u0026pricingParameters=PLUS\u0026pg=default","price":1.29,"priceFormatted":"$1.29","type":"buy","variant":"PLUS"},"relationships":{}},{"type":"offer","id":"st14699265","attributes":{"actionText":{"short":"Get","medium":"Get","long":"Get Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":30,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/9a/3d/7d/9a3d7d80-f3b4-7270-d9ae-505d66f7c005/mzaf_2689792186871432577.plus.aac.p.m4a"},"size":4079099,"duration":99},{"flavor":null,"size":3513529,"duration":99},{"flavor":null,"size":812161,"duration":99},{"flavor":null,"size":1727286,"duration":99}],"buyParams":"productType=S\u0026price=0\u0026salableAdamId=156088102\u0026pricingParameters=SUBS\u0026pg=default","price":0,"priceFormatted":"$0.00","type":"subscription"},"relationships":{}},{"type":"offer","id":"st14699266","attributes":{"actionText":{"short":"Buy","medium":"Buy","long":"Buy Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":90,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/08/ef/d7/08efd778-11dc-4d98-c365-a0434d0e04e3/mzaf_7299153856664949428.plus.aac.ep.m4a"},"size":6590870,"duration":171}],"buyParams":"productType=S\u0026price=990\u0026salableAdamId=156088105\u0026pricingParameters=PLUS\u0026pg=default","price":0.99,"priceFormatted":"$0.99","type":"buy","variant":"PLUS"},"relationships":{}},{"type":"offer","id":"st12615209","attributes":{"actionText":{"short":"Buy","medium":"Buy","long":"Buy Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":90,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/39/4b/89/394b899c-dbb1-7e01-ca80-879a5f7a828c/mzaf_6379511390356453329.plus.aac.ep.m4a"},"size":5924790,"duration":160}],"buyParams":"productType=S\u0026price=1290\u0026salableAdamId=156088108\u0026pricingParameters=PLUS\u0026pg=default","price":1.29,"priceFormatted":"$1.29","type":"buy","variant":"PLUS"},"relationships":{}},{"type":"offer","id":"st12615210","attributes":{"actionText":{"short":"Get","medium":"Get","long":"Get Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":90,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/39/4b/89/394b899c-dbb1-7e01-ca80-879a5f7a828c/mzaf_6379511390356453329.plus.aac.ep.m4a"},"size":5924790,"duration":160},{"flavor":null,"size":5353918,"duration":160},{"flavor":null,"size":1335333,"duration":160},{"flavor":null,"size":2662199,"duration":160}],"buyParams":"productType=S\u0026price=0\u0026salableAdamId=156088108\u0026pricingParameters=SUBS\u0026pg=default","price":0,"priceFormatted":"$0.00","type":"subscription"},"relationships":{}},{"type":"offer","id":"st14699267","attributes":{"actionText":{"short":"Buy","medium":"Buy","long":"Buy Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":90,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/12/3c/7d/123c7d6b-3bde-ff45-08b2-8525d518e0ee/mzaf_4647028392418331893.plus.aac.ep.m4a"},"size":6469445,"duration":163}],"buyParams":"productType=S\u0026price=1290\u0026salableAdamId=156088112\u0026pricingParameters=PLUS\u0026pg=default","price":1.29,"priceFormatted":"$1.29","type":"buy","variant":"PLUS"},"relationships":{}},{"type":"offer","id":"st14699268","attributes":{"actionText":{"short":"Get","medium":"Get","long":"Get Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":90,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/12/3c/7d/123c7d6b-3bde-ff45-08b2-8525d518e0ee/mzaf_4647028392418331893.plus.aac.ep.m4a"},"size":6469445,"duration":163},{"flavor":null,"size":5898381,"duration":163},{"flavor":null,"size":1358131,"duration":163},{"flavor":null,"size":2836619,"duration":163}],"buyParams":"productType=S\u0026price=0\u0026salableAdamId=156088112\u0026pricingParameters=SUBS\u0026pg=default","price":0,"priceFormatted":"$0.00","type":"subscription"},"relationships":{}},{"type":"offer","id":"st14699269","attributes":{"actionText":{"short":"Buy","medium":"Buy","long":"Buy Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":30,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/ad/06/39/ad0639ec-b052-77b1-3051-9042d7d182ba/mzaf_473900025490537254.plus.aac.p.m4a"},"size":2845048,"duration":67}],"buyParams":"productType=S\u0026price=1290\u0026salableAdamId=156088115\u0026pricingParameters=PLUS\u0026pg=default","price":1.29,"priceFormatted":"$1.29","type":"buy","variant":"PLUS"},"relationships":{}},{"type":"offer","id":"st14699270","attributes":{"actionText":{"short":"Get","medium":"Get","long":"Get Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":30,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/ad/06/39/ad0639ec-b052-77b1-3051-9042d7d182ba/mzaf_473900025490537254.plus.aac.p.m4a"},"size":2845048,"duration":67},{"flavor":null,"size":2282200,"duration":67},{"flavor":null,"size":556701,"duration":67},{"flavor":null,"size":1122686,"duration":67}],"buyParams":"productType=S\u0026price=0\u0026salableAdamId=156088115\u0026pricingParameters=SUBS\u0026pg=default","price":0,"priceFormatted":"$0.00","type":"subscription"},"relationships":{}},{"type":"offer","id":"st14699271","attributes":{"actionText":{"short":"Buy","medium":"Buy","long":"Buy Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":30,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/4a/c4/d1/4ac4d1c2-5d33-5a77-4163-66d59383cecc/mzaf_8316129074289047761.plus.aac.p.m4a"},"size":3983011,"duration":95}],"buyParams":"productType=S\u0026price=1290\u0026salableAdamId=156088120\u0026pricingParameters=PLUS\u0026pg=default","price":1.29,"priceFormatted":"$1.29","type":"buy","variant":"PLUS"},"relationships":{}},{"type":"offer","id":"st14699272","attributes":{"actionText":{"short":"Get","medium":"Get","long":"Get Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":30,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/4a/c4/d1/4ac4d1c2-5d33-5a77-4163-66d59383cecc/mzaf_8316129074289047761.plus.aac.p.m4a"},"size":3983011,"duration":95},{"flavor":null,"size":3417783,"duration":95},{"flavor":null,"size":791334,"duration":95},{"flavor":null,"size":1658399,"duration":95}],"buyParams":"productType=S\u0026price=0\u0026salableAdamId=156088120\u0026pricingParameters=SUBS\u0026pg=default","price":0,"priceFormatted":"$0.00","type":"subscription"},"relationships":{}},{"type":"offer","id":"st14699273","attributes":{"actionText":{"short":"Buy","medium":"Buy","long":"Buy Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":30,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/33/36/cc/3336ccb5-d354-a17b-23c1-0d5181be141a/mzaf_3369952304734972876.plus.aac.p.m4a"},"size":4664206,"duration":111}],"buyParams":"productType=S\u0026price=990\u0026salableAdamId=156088123\u0026pricingParameters=PLUS\u0026pg=default","price":0.99,"priceFormatted":"$0.99","type":"buy","variant":"PLUS"},"relationships":{}},{"type":"offer","id":"st14699274","attributes":{"actionText":{"short":"Get","medium":"Get","long":"Get Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":30,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/33/36/cc/3336ccb5-d354-a17b-23c1-0d5181be141a/mzaf_3369952304734972876.plus.aac.p.m4a"},"size":4664206,"duration":111},{"flavor":null,"size":4097618,"duration":111},{"flavor":null,"size":959320,"duration":111},{"flavor":null,"size":1966313,"duration":111}],"buyParams":"productType=S\u0026price=0\u0026salableAdamId=156088123\u0026pricingParameters=SUBS\u0026pg=default","price":0,"priceFormatted":"$0.00","type":"subscription"},"relationships":{}},{"type":"offer","id":"st14699275","attributes":{"actionText":{"short":"Buy","medium":"Buy","long":"Buy Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":90,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/dd/f2/34/ddf234a6-577c-2be2-e292-9cd396d23cde/mzaf_4874874357493360762.plus.aac.ep.m4a"},"size":6808530,"duration":175}],"buyParams":"productType=S\u0026price=1290\u0026salableAdamId=156088126\u0026pricingParameters=PLUS\u0026pg=default","price":1.29,"priceFormatted":"$1.29","type":"buy","variant":"PLUS"},"relationships":{}},{"type":"offer","id":"st14699276","attributes":{"actionText":{"short":"Get","medium":"Get","long":"Get Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":90,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/dd/f2/34/ddf234a6-577c-2be2-e292-9cd396d23cde/mzaf_4874874357493360762.plus.aac.ep.m4a"},"size":6808530,"duration":175},{"flavor":null,"size":6236380,"duration":175},{"flavor":null,"size":1476755,"duration":175},{"flavor":null,"size":3038702,"duration":175}],"buyParams":"productType=S\u0026price=0\u0026salableAdamId=156088126\u0026pricingParameters=SUBS\u0026pg=default","price":0,"priceFormatted":"$0.00","type":"subscription"},"relationships":{}},{"type":"offer","id":"st14699277","attributes":{"actionText":{"short":"Buy","medium":"Buy","long":"Buy Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":30,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/67/18/48/6718487a-9be3-b984-affe-7b4191319655/mzaf_2282667861557740040.plus.aac.p.m4a"},"size":2212188,"duration":46}],"buyParams":"productType=S\u0026price=1290\u0026salableAdamId=156088129\u0026pricingParameters=PLUS\u0026pg=default","price":1.29,"priceFormatted":"$1.29","type":"buy","variant":"PLUS"},"relationships":{}},{"type":"offer","id":"st14699278","attributes":{"actionText":{"short":"Get","medium":"Get","long":"Get Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":30,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/67/18/48/6718487a-9be3-b984-affe-7b4191319655/mzaf_2282667861557740040.plus.aac.p.m4a"},"size":2212188,"duration":46},{"flavor":null,"size":1651130,"duration":46},{"flavor":null,"size":391666,"duration":46},{"flavor":null,"size":814513,"duration":46}],"buyParams":"productType=S\u0026price=0\u0026salableAdamId=156088129\u0026pricingParameters=SUBS\u0026pg=default","price":0,"priceFormatted":"$0.00","type":"subscription"},"relationships":{}},{"type":"offer","id":"st14699279","attributes":{"actionText":{"short":"Buy","medium":"Buy","long":"Buy Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":90,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/85/73/f5/8573f55f-ce9f-edc4-8d29-ad1d8f3fa0a8/mzaf_6609581194431806950.plus.aac.ep.m4a"},"size":6289447,"duration":157}],"buyParams":"productType=S\u0026price=1290\u0026salableAdamId=156088132\u0026pricingParameters=PLUS\u0026pg=default","price":1.29,"priceFormatted":"$1.29","type":"buy","variant":"PLUS"},"relationships":{}},{"type":"offer","id":"st14699280","attributes":{"actionText":{"short":"Get","medium":"Get","long":"Get Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":90,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/85/73/f5/8573f55f-ce9f-edc4-8d29-ad1d8f3fa0a8/mzaf_6609581194431806950.plus.aac.ep.m4a"},"size":6289447,"duration":157},{"flavor":null,"size":5718885,"duration":157},{"flavor":null,"size":1395298,"duration":157},{"flavor":null,"size":2825731,"duration":157}],"buyParams":"productType=S\u0026price=0\u0026salableAdamId=156088132\u0026pricingParameters=SUBS\u0026pg=default","price":0,"priceFormatted":"$0.00","type":"subscription"},"relationships":{}},{"type":"offer","id":"st14699281","attributes":{"actionText":{"short":"Buy","medium":"Buy","long":"Buy Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":90,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/8e/91/24/8e91244c-afc7-01a9-6dba-ff50ef33b88b/mzaf_4123688824286657015.plus.aac.ep.m4a"},"size":11479832,"duration":297}],"buyParams":"productType=S\u0026price=1290\u0026salableAdamId=156088135\u0026pricingParameters=PLUS\u0026pg=default","price":1.29,"priceFormatted":"$1.29","type":"buy","variant":"PLUS"},"relationships":{}},{"type":"offer","id":"st14699282","attributes":{"actionText":{"short":"Get","medium":"Get","long":"Get Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":90,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/8e/91/24/8e91244c-afc7-01a9-6dba-ff50ef33b88b/mzaf_4123688824286657015.plus.aac.ep.m4a"},"size":11479832,"duration":297},{"flavor":null,"size":10897170,"duration":297},{"flavor":null,"size":2580428,"duration":297},{"flavor":null,"size":5317181,"duration":297}],"buyParams":"productType=S\u0026price=0\u0026salableAdamId=156088135\u0026pricingParameters=SUBS\u0026pg=default","price":0,"priceFormatted":"$0.00","type":"subscription"},"relationships":{}},{"type":"offer","id":"st14699283","attributes":{"actionText":{"short":"Buy","medium":"Buy","long":"Buy Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":30,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/df/c4/f2/dfc4f2b7-a043-2363-0ffd-4869b0187609/mzaf_2005669932411611516.plus.aac.p.m4a"},"size":4558521,"duration":111}],"buyParams":"productType=S\u0026price=1290\u0026salableAdamId=156088138\u0026pricingParameters=PLUS\u0026pg=default","price":1.29,"priceFormatted":"$1.29","type":"buy","variant":"PLUS"},"relationships":{}},{"type":"offer","id":"st14699284","attributes":{"actionText":{"short":"Get","medium":"Get","long":"Get Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":30,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/df/c4/f2/dfc4f2b7-a043-2363-0ffd-4869b0187609/mzaf_2005669932411611516.plus.aac.p.m4a"},"size":4558521,"duration":111},{"flavor":null,"size":3991885,"duration":111},{"flavor":null,"size":941782,"duration":111},{"flavor":null,"size":1971934,"duration":111}],"buyParams":"productType=S\u0026price=0\u0026salableAdamId=156088138\u0026pricingParameters=SUBS\u0026pg=default","price":0,"priceFormatted":"$0.00","type":"subscription"},"relationships":{}},{"type":"offer","id":"st14699285","attributes":{"actionText":{"short":"Buy","medium":"Buy","long":"Buy Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":90,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/86/e7/ed/86e7ede7-fc06-b1f6-39e2-1fa7a7fb7316/mzaf_8323878731435076953.plus.aac.ep.m4a"},"size":8581208,"duration":219}],"buyParams":"productType=S\u0026price=1290\u0026salableAdamId=156088141\u0026pricingParameters=PLUS\u0026pg=default","price":1.29,"priceFormatted":"$1.29","type":"buy","variant":"PLUS"},"relationships":{}},{"type":"offer","id":"st14699286","attributes":{"actionText":{"short":"Get","medium":"Get","long":"Get Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":90,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/86/e7/ed/86e7ede7-fc06-b1f6-39e2-1fa7a7fb7316/mzaf_8323878731435076953.plus.aac.ep.m4a"},"size":8581208,"duration":219},{"flavor":null,"size":8005276,"duration":219},{"flavor":null,"size":1905785,"duration":219},{"flavor":null,"size":3889199,"duration":219}],"buyParams":"productType=S\u0026price=0\u0026salableAdamId=156088141\u0026pricingParameters=SUBS\u0026pg=default","price":0,"priceFormatted":"$0.00","type":"subscription"},"relationships":{}},{"type":"offer","id":"st14699287","attributes":{"actionText":{"short":"Buy","medium":"Buy","long":"Buy Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":90,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/77/f6/2c/77f62c98-3b4c-ac5f-5a78-cc7256709483/mzaf_4270647960444560512.plus.aac.ep.m4a"},"size":9727373,"duration":255}],"buyParams":"productType=S\u0026price=1290\u0026salableAdamId=156088144\u0026pricingParameters=PLUS\u0026pg=default","price":1.29,"priceFormatted":"$1.29","type":"buy","variant":"PLUS"},"relationships":{}},{"type":"offer","id":"st14699288","attributes":{"actionText":{"short":"Get","medium":"Get","long":"Get Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":90,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/77/f6/2c/77f62c98-3b4c-ac5f-5a78-cc7256709483/mzaf_4270647960444560512.plus.aac.ep.m4a"},"size":9727373,"duration":255},{"flavor":null,"size":9148367,"duration":255},{"flavor":null,"size":2130405,"duration":255},{"flavor":null,"size":4385620,"duration":255}],"buyParams":"productType=S\u0026price=0\u0026salableAdamId=156088144\u0026pricingParameters=SUBS\u0026pg=default","price":0,"priceFormatted":"$0.00","type":"subscription"},"relationships":{}},{"type":"offer","id":"st14699289","attributes":{"actionText":{"short":"Buy","medium":"Buy","long":"Buy Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":90,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/ac/2e/ad/ac2ead2b-f72b-8940-d707-91b1c2c78bfb/mzaf_1813838456098573260.plus.aac.ep.m4a"},"size":8714752,"duration":250}],"buyParams":"productType=S\u0026price=1290\u0026salableAdamId=156088147\u0026pricingParameters=PLUS\u0026pg=default","price":1.29,"priceFormatted":"$1.29","type":"buy","variant":"PLUS"},"relationships":{}},{"type":"offer","id":"st14699290","attributes":{"actionText":{"short":"Get","medium":"Get","long":"Get Song","downloaded":"Downloaded","downloading":"Downloading"},"assets":[{"flavor":"plusAudio","preview":{"duration":90,"url":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/ac/2e/ad/ac2ead2b-f72b-8940-d707-91b1c2c78bfb/mzaf_1813838456098573260.plus.aac.ep.m4a"},"size":8714752,"duration":250},{"flavor":null,"size":8136164,"duration":250},{"flavor":null,"size":2032339,"duration":250},{"flavor":null,"size":4064469,"duration":250}],"buyParams":"productType=S\u0026price=0\u0026salableAdamId=156088147\u0026pricingParameters=SUBS\u0026pg=default","price":0,"priceFormatted":"$0.00","type":"subscription"},"relationships":{}},{"type":"offer","id":"st6633974","attributes":{"actionText":{"short":"Buy","medium":"Buy","long":"Buy Album","downloaded":"Downloaded","downloading":"Downloading"},"buyParams":"productType=P\u0026price=10990\u0026salableAdamId=156087691\u0026pricingParameters=PLUS\u0026pg=default","price":10.99,"priceFormatted":"$10.99","type":"buy","variant":"PLUS"},"relationships":{}},{"type":"offer","id":"st6633975","attributes":{"actionText":{"short":"Get","medium":"Get","long":"Get Album","downloaded":"Downloaded","downloading":"Downloading"},"buyParams":"productType=P\u0026price=0\u0026salableAdamId=156087691\u0026pricingParameters=SUBS\u0026pg=default","price":0,"priceFormatted":"$0.00","type":"subscription"},"relationships":{}},{"type":"offer","id":"st2222784","attributes":{"actionText":{"short":"Buy","medium":"Buy","long":"Buy Album","downloaded":"Downloaded","downloading":"Downloading"},"buyParams":"productType=P\u0026price=10990\u0026salableAdamId=156774405\u0026pricingParameters=PLUS\u0026pg=default","price":10.99,"priceFormatted":"$10.99","type":"buy","variant":"PLUS"},"relationships":{}},{"type":"offer","id":"st2222785","attributes":{"actionText":{"short":"Get","medium":"Get","long":"Get Album","downloaded":"Downloaded","downloading":"Downloading"},"buyParams":"productType=P\u0026price=0\u0026salableAdamId=156774405\u0026pricingParameters=SUBS\u0026pg=default","price":0,"priceFormatted":"$0.00","type":"subscription"},"relationships":{}},{"type":"offer","id":"st1400410","attributes":{"actionText":{"short":"Buy","medium":"Buy","long":"Buy Album","downloaded":"Downloaded","downloading":"Downloading"},"buyParams":"productType=P\u0026price=10990\u0026salableAdamId=191902361\u0026pricingParameters=PLUS\u0026pg=default","price":10.99,"priceFormatted":"$10.99","type":"buy","variant":"PLUS"},"relationships":{}},{"type":"offer","id":"st1400411","attributes":{"actionText":{"short":"Get","medium":"Get","long":"Get Album","downloaded":"Downloaded","downloading":"Downloading"},"buyParams":"productType=P\u0026price=0\u0026salableAdamId=191902361\u0026pricingParameters=SUBS\u0026pg=default","price":0,"priceFormatted":"$0.00","type":"subscription"},"relationships":{}},{"type":"offer","id":"st2302277","attributes":{"actionText":{"short":"Buy","medium":"Buy","long":"Buy Album","downloaded":"Downloaded","downloading":"Downloading"},"buyParams":"productType=P\u0026price=11990\u0026salableAdamId=193376473\u0026pricingParameters=PLUS\u0026pg=default","price":11.99,"priceFormatted":"$11.99","type":"buy","variant":"PLUS"},"relationships":{}},{"type":"offer","id":"st2302278","attributes":{"actionText":{"short":"Get","medium":"Get","long":"Get Album","downloaded":"Downloaded","downloading":"Downloading"},"buyParams":"productType=P\u0026price=0\u0026salableAdamId=193376473\u0026pricingParameters=SUBS\u0026pg=default","price":0,"priceFormatted":"$0.00","type":"subscription"},"relationships":{}},{"type":"offer","id":"st143541","attributes":{"actionText":{"short":"Buy","medium":"Buy","long":"Buy Album","downloaded":"Downloaded","downloading":"Downloading"},"buyParams":"productType=P\u0026price=9990\u0026salableAdamId=390433307\u0026pricingParameters=PLUS\u0026pg=default","price":9.99,"priceFormatted":"$9.99","type":"buy","variant":"PLUS"},"relationships":{}},{"type":"offer","id":"st143542","attributes":{"actionText":{"short":"Get","medium":"Get","long":"Get Album","downloaded":"Downloaded","downloading":"Downloading"},"buyParams":"productType=P\u0026price=0\u0026salableAdamId=390433307\u0026pricingParameters=SUBS\u0026pg=default","price":0,"priceFormatted":"$0.00","type":"subscription"},"relationships":{}},{"type":"offer","id":"st14699291","attributes":{"actionText":{"short":"Buy","medium":"Buy","long":"Buy Album","downloaded":"Downloaded","downloading":"Downloading"},"buyParams":"productType=P\u0026price=9990\u0026salableAdamId=609145793\u0026pricingParameters=PLUS\u0026pg=default","price":9.99,"priceFormatted":"$9.99","type":"buy","variant":"PLUS"},"relationships":{}},{"type":"lockup/artist","id":"4035426","attributes":{},"relationships":{}},{"type":"image","id":"st2302273","attributes":{"bgColor":"0c160d","height":1458,"supportsLayeredImage":false,"textColor1":"fbab43","textColor2":"f79c68","textColor3":"cb8d38","textColor4":"c88156","url":"https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/f2/9d/20/f29d201c-885c-bb7c-0ac9-f8c0048c3e51/dj.vteryfyc.jpg/{w}x{h}bb.{f}","width":1653},"relationships":{}},{"type":"image","id":"st12615211","attributes":{"bgColor":"0c160d","height":1458,"supportsLayeredImage":false,"textColor1":"fbab43","textColor2":"f79c68","textColor3":"cb8d38","textColor4":"c88156","url":"https://is4-ssl.mzstatic.com/image/thumb/Music20/v4/1a/6d/4e/1a6d4ebc-7477-142c-c44d-c80f2cedb0ff/source/{w}x{h}bb.{f}","width":1653},"relationships":{}},{"type":"image","id":"st6633976","attributes":{"bgColor":"40427d","height":1452,"supportsLayeredImage":false,"textColor1":"fcfafd","textColor2":"f8bfc4","textColor3":"d6d5e3","textColor4":"d3a6b6","url":"https://is4-ssl.mzstatic.com/image/thumb/Music62/v4/63/96/9c/63969c62-f917-afb9-27e8-2b45099aeb66/dj.pbwtrftv.jpg/{w}x{h}bb.{f}","width":1665},"relationships":{}},{"type":"image","id":"st2222786","attributes":{"bgColor":"050706","height":600,"supportsLayeredImage":false,"textColor1":"dadeff","textColor2":"fd8e91","textColor3":"afb2cd","textColor4":"cb7375","url":"https://is5-ssl.mzstatic.com/image/thumb/Features/95/fc/46/dj.eqiyiumv.jpg/{w}x{h}bb.{f}","width":597},"relationships":{}},{"type":"image","id":"st1400412","attributes":{"bgColor":"050d10","height":600,"supportsLayeredImage":false,"textColor1":"7fdeff","textColor2":"65cffc","textColor3":"66b4cf","textColor4":"51a8cd","url":"https://is1-ssl.mzstatic.com/image/thumb/Features/37/f9/d5/dj.mqzodfop.jpg/{w}x{h}bb.{f}","width":600},"relationships":{}},{"type":"image","id":"st2302279","attributes":{"bgColor":"71a4d7","height":1500,"supportsLayeredImage":false,"textColor1":"05111f","textColor2":"0f1d46","textColor3":"1b2e43","textColor4":"233863","url":"https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/6a/b1/30/6ab13005-7a6f-6f6d-fb87-6725da3f0ec1/dj.zegzawxm.jpg/{w}x{h}bb.{f}","width":1500},"relationships":{}},{"type":"image","id":"st143543","attributes":{"bgColor":"12111c","height":600,"supportsLayeredImage":false,"textColor1":"f6da9f","textColor2":"f0a341","textColor3":"c8b284","textColor4":"c3863a","url":"https://is2-ssl.mzstatic.com/image/thumb/Features/30/ef/28/dj.bgadzkrd.jpg/{w}x{h}bb.{f}","width":600},"relationships":{}},{"type":"image","id":"st14699292","attributes":{"bgColor":"171717","height":1500,"supportsLayeredImage":false,"textColor1":"e3c481","textColor2":"fc4230","textColor3":"baa16c","textColor4":"ce3a2b","url":"https://is1-ssl.mzstatic.com/image/thumb/Music/v4/1c/7d/87/1c7d873c-85f5-f653-213c-9e370d7285e2/UMG_cvrart_00050086100378_01_RGB72_1500x1500_13DMGIM03813.jpg/{w}x{h}bb.{f}","width":1500},"relationships":{}},{"type":"genre","id":"st12193","attributes":{"mediaType":"1","name":"Soundtrack","url":"https://itunes.apple.com/us/genre/id16"},"relationships":{}},{"type":"genre","id":"st2645","attributes":{"mediaType":"1","name":"Music","url":"https://itunes.apple.com/us/genre/id34"},"relationships":{}},{"type":"genre","id":"st3277562","attributes":{"mediaType":"1","name":"Disney","url":"https://itunes.apple.com/us/genre/id50000063"},"relationships":{}},{"type":"review","id":"st14699248","attributes":{"body":"Brings back many memories. Good to see on iTunes.","date":"2006-05-30T20:56:06Z","name":"80slover","rating":4,"title":"Really Cute","userReviewId":"984943"},"relationships":{}},{"type":"review","id":"st14699249","attributes":{"body":"long live Aladdin I recomend Prince Ali its great to dance to","date":"2006-05-31T01:48:32Z","name":"sizzlinsoccerfiend","rating":5,"title":"Aladin is a classic","userReviewId":"986839"},"relationships":{}},{"type":"review","id":"st14699250","attributes":{"body":"Yes, I am 12, and yes, I still do love Aladdin. It is one of the coolest movies with the coolest songs. I still love the Disney classics -- I remember having the movie when I was five years old. SO DON'T LET THE FUN DIE EVEN THOUGH YOU'RE OLDER!!! ","date":"2006-06-01T02:56:14Z","name":"BillyBobJr.","rating":4,"title":"Such A Great Movie","userReviewId":"991844"},"relationships":{}},{"type":"review","id":"st14699251","attributes":{"body":"This has to be one of the greatest Disney soundtracks that have ever been released.  Alan Menken does an excellent job with the score.  I've seen this movie so many times now that I can tell what each score coresponds to what scene as well as being able to know all the song.  Kudos to Alan Menken and the other artists that have sung in this CD.","date":"2006-06-02T22:45:55Z","name":"karpot","rating":5,"title":"A Great Disney Classic","userReviewId":"998204"},"relationships":{}},{"type":"review","id":"st14699252","attributes":{"body":"my skewl is doing the play \"Aladdin\" next year, and, trust me, its not the easiest play nor does it have the easiest songs....iTunes helped me out a lot by having it on the site","date":"2006-06-03T17:35:14Z","name":"ashlie AKIC","rating":5,"title":"who doesnt love Aladdin?","userReviewId":"1000958"},"relationships":{}},{"type":"song","id":"156088079","attributes":{"artistId":"6656639","artistName":"Bruce Adler","artistUrl":"https://itunes.apple.com/us/artist/bruce-adler/6656639","contentRatingsBySystem":{},"kind":"song","name":"Arabian Nights (Soundtrack Version)","popularity":0.123046875,"releaseDate":"1992-01-01","trackNumber":1,"url":"https://itunes.apple.com/us/album/arabian-nights-soundtrack-version/156088077?i=156088079"},"relationships":{"offers":{"data":[{"type":"offer","id":"st14699253"},{"type":"offer","id":"st14699254"}]},"artwork":{"data":{"type":"image","id":"st12615211"}},"genres":{"data":[{"type":"genre","id":"st12193"},{"type":"genre","id":"st2645"}]}}},{"type":"song","id":"156088084","attributes":{"artistId":"393023","artistName":"Alan Menken","artistUrl":"https://itunes.apple.com/us/artist/alan-menken/393023","contentRatingsBySystem":{},"kind":"song","name":"Legend of the Lamp","popularity":0.0068359375,"releaseDate":"1992-01-01","trackNumber":2,"url":"https://itunes.apple.com/us/album/legend-of-the-lamp/156088077?i=156088084"},"relationships":{"offers":{"data":[{"type":"offer","id":"st14699255"},{"type":"offer","id":"st14699256"}]},"artwork":{"data":{"type":"image","id":"st12615211"}},"genres":{"data":[{"type":"genre","id":"st12193"},{"type":"genre","id":"st2645"}]}}},{"type":"song","id":"156088087","attributes":{"artistId":"6656648","artistName":"Brad Kane","artistUrl":"https://itunes.apple.com/us/artist/brad-kane/6656648","contentRatingsBySystem":{},"kind":"song","name":"One Jump Ahead (Soundtrack Version)","popularity":0.2735595703125,"releaseDate":"1992-01-01","trackNumber":3,"url":"https://itunes.apple.com/us/album/one-jump-ahead-soundtrack-version/156088077?i=156088087"},"relationships":{"offers":{"data":[{"type":"offer","id":"st14699257"},{"type":"offer","id":"st14699258"}]},"artwork":{"data":{"type":"image","id":"st12615211"}},"genres":{"data":[{"type":"genre","id":"st12193"},{"type":"genre","id":"st2645"}]}}},{"type":"song","id":"156088092","attributes":{"artistId":"393023","artistName":"Alan Menken","artistUrl":"https://itunes.apple.com/us/artist/alan-menken/393023","contentRatingsBySystem":{},"kind":"song","name":"Street Urchins","popularity":0.0020751953125,"releaseDate":"1992-10-31","trackNumber":4,"url":"https://itunes.apple.com/us/album/street-urchins/156088077?i=156088092"},"relationships":{"offers":{"data":[{"type":"offer","id":"st14699259"},{"type":"offer","id":"st14699260"}]},"artwork":{"data":{"type":"image","id":"st12615211"}},"genres":{"data":[{"type":"genre","id":"st12193"},{"type":"genre","id":"st2645"}]}}},{"type":"song","id":"156088096","attributes":{"artistId":"6656648","artistName":"Brad Kane","artistUrl":"https://itunes.apple.com/us/artist/brad-kane/6656648","contentRatingsBySystem":{},"kind":"song","name":"One Jump Ahead (Reprise) [Soundtrack Version]","popularity":0.034423828125,"releaseDate":"1992-01-01","trackNumber":5,"url":"https://itunes.apple.com/us/album/one-jump-ahead-reprise-soundtrack-version/156088077?i=156088096"},"relationships":{"offers":{"data":[{"type":"offer","id":"st14699261"},{"type":"offer","id":"st14699262"}]},"artwork":{"data":{"type":"image","id":"st12615211"}},"genres":{"data":[{"type":"genre","id":"st12193"},{"type":"genre","id":"st2645"}]}}},{"type":"song","id":"156088099","attributes":{"artistId":"63714","artistName":"Robin Williams","artistUrl":"https://itunes.apple.com/us/artist/robin-williams/63714","contentRatingsBySystem":{},"kind":"song","name":"Friend Like Me (Soundtrack Version)","popularity":0.1839599609375,"releaseDate":"1992-01-01","trackNumber":6,"url":"https://itunes.apple.com/us/album/friend-like-me-soundtrack-version/156088077?i=156088099"},"relationships":{"offers":{"data":[{"type":"offer","id":"st14699263"}]},"artwork":{"data":{"type":"image","id":"st12615211"}},"genres":{"data":[{"type":"genre","id":"st12193"},{"type":"genre","id":"st2645"}]}}},{"type":"song","id":"156088102","attributes":{"artistId":"393023","artistName":"Alan Menken","artistUrl":"https://itunes.apple.com/us/artist/alan-menken/393023","contentRatingsBySystem":{},"kind":"song","name":"To Be Free","popularity":0.0018310546875,"releaseDate":"1992-10-31","trackNumber":7,"url":"https://itunes.apple.com/us/album/to-be-free/156088077?i=156088102"},"relationships":{"offers":{"data":[{"type":"offer","id":"st14699264"},{"type":"offer","id":"st14699265"}]},"artwork":{"data":{"type":"image","id":"st12615211"}},"genres":{"data":[{"type":"genre","id":"st12193"},{"type":"genre","id":"st2645"}]}}},{"type":"song","id":"156088105","attributes":{"artistId":"63714","artistName":"Robin Williams","artistUrl":"https://itunes.apple.com/us/artist/robin-williams/63714","contentRatingsBySystem":{},"kind":"song","name":"Prince Ali (Soundtrack Version)","popularity":0.1395263671875,"releaseDate":"1992-01-01","trackNumber":8,"url":"https://itunes.apple.com/us/album/prince-ali-soundtrack-version/156088077?i=156088105"},"relationships":{"offers":{"data":[{"type":"offer","id":"st14699266"}]},"artwork":{"data":{"type":"image","id":"st12615211"}},"genres":{"data":[{"type":"genre","id":"st12193"},{"type":"genre","id":"st2645"}]}}},{"type":"song","id":"156088108","attributes":{"artistId":"271962159","artistName":"Lea Salonga \u0026 Brad Kane","artistUrl":"https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us\u0026ids=271962159-6656648","contentRatingsBySystem":{},"kind":"song","name":"A Whole New World (Soundtrack Version)","popularity":1,"releaseDate":"1992-10-31","trackNumber":9,"url":"https://itunes.apple.com/us/album/a-whole-new-world-soundtrack-version/156088077?i=156088108"},"relationships":{"offers":{"data":[{"type":"offer","id":"st12615209"},{"type":"offer","id":"st12615210"}]},"artwork":{"data":{"type":"image","id":"st12615211"}},"genres":{"data":[{"type":"genre","id":"st12193"},{"type":"genre","id":"st2645"}]}}},{"type":"song","id":"156088112","attributes":{"artistId":"393023","artistName":"Alan Menken","artistUrl":"https://itunes.apple.com/us/artist/alan-menken/393023","contentRatingsBySystem":{},"kind":"song","name":"Jafar's Hour","popularity":0.000732421875,"releaseDate":"1992-10-31","trackNumber":10,"url":"https://itunes.apple.com/us/album/jafars-hour/156088077?i=156088112"},"relationships":{"offers":{"data":[{"type":"offer","id":"st14699267"},{"type":"offer","id":"st14699268"}]},"artwork":{"data":{"type":"image","id":"st12615211"}},"genres":{"data":[{"type":"genre","id":"st12193"},{"type":"genre","id":"st2645"}]}}},{"type":"song","id":"156088115","attributes":{"artistId":"277522","artistName":"Jonathan Freeman","artistUrl":"https://itunes.apple.com/us/artist/jonathan-freeman/277522","contentRatingsBySystem":{},"kind":"song","name":"Prince Ali (Reprise) [Soundtrack Version]","popularity":0.026611328125,"releaseDate":"1992-01-01","trackNumber":11,"url":"https://itunes.apple.com/us/album/prince-ali-reprise-soundtrack-version/156088077?i=156088115"},"relationships":{"offers":{"data":[{"type":"offer","id":"st14699269"},{"type":"offer","id":"st14699270"}]},"artwork":{"data":{"type":"image","id":"st12615211"}},"genres":{"data":[{"type":"genre","id":"st12193"},{"type":"genre","id":"st2645"}]}}},{"type":"song","id":"156088120","attributes":{"artistId":"393023","artistName":"Alan Menken","artistUrl":"https://itunes.apple.com/us/artist/alan-menken/393023","contentRatingsBySystem":{},"kind":"song","name":"The Ends of the Earth","popularity":0.000244140625,"releaseDate":"1992-10-31","trackNumber":12,"url":"https://itunes.apple.com/us/album/the-ends-of-the-earth/156088077?i=156088120"},"relationships":{"offers":{"data":[{"type":"offer","id":"st14699271"},{"type":"offer","id":"st14699272"}]},"artwork":{"data":{"type":"image","id":"st12615211"}},"genres":{"data":[{"type":"genre","id":"st12193"},{"type":"genre","id":"st2645"}]}}},{"type":"song","id":"156088123","attributes":{"artistId":"393023","artistName":"Alan Menken","artistUrl":"https://itunes.apple.com/us/artist/alan-menken/393023","contentRatingsBySystem":{},"kind":"song","name":"The Kiss","popularity":0.0054931640625,"releaseDate":"1992-10-31","trackNumber":13,"url":"https://itunes.apple.com/us/album/the-kiss/156088077?i=156088123"},"relationships":{"offers":{"data":[{"type":"offer","id":"st14699273"},{"type":"offer","id":"st14699274"}]},"artwork":{"data":{"type":"image","id":"st12615211"}},"genres":{"data":[{"type":"genre","id":"st12193"},{"type":"genre","id":"st2645"}]}}},{"type":"song","id":"156088126","attributes":{"artistId":"393023","artistName":"Alan Menken","artistUrl":"https://itunes.apple.com/us/artist/alan-menken/393023","contentRatingsBySystem":{},"kind":"song","name":"On a Dark Night","popularity":0.00048828125,"releaseDate":"1992-10-31","trackNumber":14,"url":"https://itunes.apple.com/us/album/on-a-dark-night/156088077?i=156088126"},"relationships":{"offers":{"data":[{"type":"offer","id":"st14699275"},{"type":"offer","id":"st14699276"}]},"artwork":{"data":{"type":"image","id":"st12615211"}},"genres":{"data":[{"type":"genre","id":"st12193"},{"type":"genre","id":"st2645"}]}}},{"type":"song","id":"156088129","attributes":{"artistId":"393023","artistName":"Alan Menken","artistUrl":"https://itunes.apple.com/us/artist/alan-menken/393023","contentRatingsBySystem":{},"kind":"song","name":"Jasmine Runs Away","popularity":0.0001220703125,"releaseDate":"1992-10-31","trackNumber":15,"url":"https://itunes.apple.com/us/album/jasmine-runs-away/156088077?i=156088129"},"relationships":{"offers":{"data":[{"type":"offer","id":"st14699277"},{"type":"offer","id":"st14699278"}]},"artwork":{"data":{"type":"image","id":"st12615211"}},"genres":{"data":[{"type":"genre","id":"st12193"},{"type":"genre","id":"st2645"}]}}},{"type":"song","id":"156088132","attributes":{"artistId":"393023","artistName":"Alan Menken","artistUrl":"https://itunes.apple.com/us/artist/alan-menken/393023","contentRatingsBySystem":{},"kind":"song","name":"Marketplace","popularity":0.00341796875,"releaseDate":"1992-10-31","trackNumber":16,"url":"https://itunes.apple.com/us/album/marketplace/156088077?i=156088132"},"relationships":{"offers":{"data":[{"type":"offer","id":"st14699279"},{"type":"offer","id":"st14699280"}]},"artwork":{"data":{"type":"image","id":"st12615211"}},"genres":{"data":[{"type":"genre","id":"st12193"},{"type":"genre","id":"st2645"}]}}},{"type":"song","id":"156088135","attributes":{"artistId":"393023","artistName":"Alan Menken","artistUrl":"https://itunes.apple.com/us/artist/alan-menken/393023","contentRatingsBySystem":{},"kind":"song","name":"The Cave of Wonders","popularity":0.0008544921875,"releaseDate":"1992-10-31","trackNumber":17,"url":"https://itunes.apple.com/us/album/the-cave-of-wonders/156088077?i=156088135"},"relationships":{"offers":{"data":[{"type":"offer","id":"st14699281"},{"type":"offer","id":"st14699282"}]},"artwork":{"data":{"type":"image","id":"st12615211"}},"genres":{"data":[{"type":"genre","id":"st12193"},{"type":"genre","id":"st2645"}]}}},{"type":"song","id":"156088138","attributes":{"artistId":"393023","artistName":"Alan Menken","artistUrl":"https://itunes.apple.com/us/artist/alan-menken/393023","contentRatingsBySystem":{},"kind":"song","name":"Aladdin's World","popularity":0.00048828125,"releaseDate":"1992-10-31","trackNumber":18,"url":"https://itunes.apple.com/us/album/aladdins-world/156088077?i=156088138"},"relationships":{"offers":{"data":[{"type":"offer","id":"st14699283"},{"type":"offer","id":"st14699284"}]},"artwork":{"data":{"type":"image","id":"st12615211"}},"genres":{"data":[{"type":"genre","id":"st12193"},{"type":"genre","id":"st2645"}]}}},{"type":"song","id":"156088141","attributes":{"artistId":"393023","artistName":"Alan Menken","artistUrl":"https://itunes.apple.com/us/artist/alan-menken/393023","contentRatingsBySystem":{},"kind":"song","name":"The Battle","popularity":0.0006103515625,"releaseDate":"1992-10-31","trackNumber":19,"url":"https://itunes.apple.com/us/album/the-battle/156088077?i=156088141"},"relationships":{"offers":{"data":[{"type":"offer","id":"st14699285"},{"type":"offer","id":"st14699286"}]},"artwork":{"data":{"type":"image","id":"st12615211"}},"genres":{"data":[{"type":"genre","id":"st12193"},{"type":"genre","id":"st2645"}]}}},{"type":"song","id":"156088144","attributes":{"artistId":"393023","artistName":"Alan Menken","artistUrl":"https://itunes.apple.com/us/artist/alan-menken/393023","contentRatingsBySystem":{},"kind":"song","name":"Happy End In Agrabah","popularity":0.003662109375,"releaseDate":"1992-01-01","trackNumber":20,"url":"https://itunes.apple.com/us/album/happy-end-in-agrabah/156088077?i=156088144"},"relationships":{"offers":{"data":[{"type":"offer","id":"st14699287"},{"type":"offer","id":"st14699288"}]},"artwork":{"data":{"type":"image","id":"st12615211"}},"genres":{"data":[{"type":"genre","id":"st12193"},{"type":"genre","id":"st2645"}]}}},{"type":"song","id":"156088147","attributes":{"artistId":"11175","artistName":"Peabo Bryson \u0026 Regina Belle","artistUrl":"https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us\u0026ids=11175-691458","contentRatingsBySystem":{},"kind":"song","name":"A Whole New World (Aladdin's Theme) [Soundtrack Version]","popularity":0.266357421875,"releaseDate":"1992-01-01","trackNumber":21,"url":"https://itunes.apple.com/us/album/a-whole-new-world-aladdins-theme-soundtrack-version/156088077?i=156088147"},"relationships":{"offers":{"data":[{"type":"offer","id":"st14699289"},{"type":"offer","id":"st14699290"}]},"artwork":{"data":{"type":"image","id":"st12615211"}},"genres":{"data":[{"type":"genre","id":"st12193"},{"type":"genre","id":"st2645"}]}}},{"type":"lockup/album","id":"156087691","attributes":{"contentRatingsBySystem":{},"artistName":"Various Artists","releaseDate":"1996-01-01","kind":"album","name":"Sleeping Beauty (Original Soundtrack)","url":"https://itunes.apple.com/us/album/sleeping-beauty-original-soundtrack/156087691"},"relationships":{"offers":{"data":[{"type":"offer","id":"st6633974"},{"type":"offer","id":"st6633975"}]},"artwork":{"data":{"type":"image","id":"st6633976"}}}},{"type":"lockup/album","id":"156774405","attributes":{"contentRatingsBySystem":{},"artistName":"Various Artists","releaseDate":"2006-06-06","kind":"album","name":"Beauty and the Beast (The Broadway Musical)","url":"https://itunes.apple.com/us/album/beauty-and-the-beast-the-broadway-musical/156774405"},"relationships":{"offers":{"data":[{"type":"offer","id":"st2222784"},{"type":"offer","id":"st2222785"}]},"artwork":{"data":{"type":"image","id":"st2222786"}}}},{"type":"lockup/album","id":"191902361","attributes":{"contentRatingsBySystem":{},"artistName":"Various Artists","releaseDate":"1995-01-01","kind":"album","name":"Pocahontas (Original Soundtrack)","url":"https://itunes.apple.com/us/album/pocahontas-original-soundtrack/191902361"},"relationships":{"offers":{"data":[{"type":"offer","id":"st1400410"},{"type":"offer","id":"st1400411"}]},"artwork":{"data":{"type":"image","id":"st1400412"}}}},{"type":"lockup/album","id":"193376473","attributes":{"contentRatingsBySystem":{},"artistName":"Alan Menken","releaseDate":"2006-01-01","kind":"album","name":"The Little Mermaid (An Original Walt Disney Records Soundtrack) [Special Edition]","url":"https://itunes.apple.com/us/album/little-mermaid-original-walt-disney-records-soundtrack/193376473"},"relationships":{"offers":{"data":[{"type":"offer","id":"st2302277"},{"type":"offer","id":"st2302278"}]},"artwork":{"data":{"type":"image","id":"st2302279"}}}},{"type":"lockup/album","id":"390433307","attributes":{"contentRatingsBySystem":{},"artistName":"Alan Menken","releaseDate":"1991-10-29","kind":"album","name":"Beauty and the Beast (Soundtrack from the Motion Picture)","url":"https://itunes.apple.com/us/album/beauty-and-the-beast-soundtrack-from-the-motion-picture/390433307"},"relationships":{"offers":{"data":[{"type":"offer","id":"st143541"},{"type":"offer","id":"st143542"}]},"artwork":{"data":{"type":"image","id":"st143543"}}}},{"type":"lockup/album","id":"609145793","attributes":{"contentRatingsBySystem":{},"artistName":"Various Artists","releaseDate":"2003-01-01","kind":"album","name":"Disney's Aladdin: A Musical Spectacular","url":"https://itunes.apple.com/us/album/disneys-aladdin-a-musical-spectacular/609145793"},"relationships":{"offers":{"data":[{"type":"offer","id":"st14699291"}]},"artwork":{"data":{"type":"image","id":"st14699292"}}}}]}</script><script type="fastboot/shoebox" id="shoebox-ember-locale-store">{"context":{"storefrontId":"143441","languageCode":"en-us","storefront":"US"},"localizations":{"WEA.MusicPages.CTA.iTunes.Eyebrow":"View in:","WEA.Common.SeparatorDuration":"@@hours@@, @@minutes@@","WEA.MusicPages.AppleMusic.PageDescriptionLine2.Subscription":"Free with Apple Music subscription.","WEA.MusicPages.TopVideos":"Top Videos","WEA.MusicPages.AlsoAvailable.iTunes":"Also Available in iTunes","WEA.MusicPages.Preview.All.AX":"Preview available tracks from ‘@@albumName@@’ by @@artistName@@","WEA.MusicPages.AppleMusic.title":"@@albumName@@ by @@artistName@@ on Apple Music","WEA.Common.TrackList.Price":"PRICE","WEA.MusicPages.Twitter.site.preorderAlbum":"@iTunes","WEA.MusicPages.Twitter.domain.preorderAlbum":"iTunes","WEA.Common.Ratings.other":"@@count@@ Ratings","WEA.Common.SeeAll.Title.Generic":"@@parentName@@ - @@sectionTitle@@","WEA.MusicPages.PageDescriptionLine1.TopListings.Three":"Preview, buy, and download songs from the album @@albumName@@, including \"@@listing1@@\", \"@@listing2@@\", and \"@@listing3@@\".","WEA.MusicPages.TrackList.ByComposer":"By @@composerName@@","WEA.Error.Generic.Meta.PageTitle":"Connecting to Apple Music.","WEA.Common.DateFormat.AX":"LL","WEA.MusicPages.Instagram.AX":"Go to instagram profile for user @@handle@@.","WEA.MusicPages.title":"\"@@albumName@@\" by @@artistName@@ on iTunes","WEA.Common.Free":"Free","WEA.MusicPages.TopAlbumsBy":"Top Albums by @@artistName@@","WEA.MusicPages.Twitter.domain.album":"iTunes","WEA.Common.FileSize.byte.one":"1 byte","WEA.Common.FileSize.KB.AX.other":"@@count@@ kilobytes","WEA.LocalNav.CTA.FreeTrial":"Try It Now","WEA.MusicPages.Track.Social.title":"\"@@trackName@@\" from @@albumName@@ by @@artistName@@ on iTunes","WEA.MusicPages.Website":"OFFICIAL WEBSITE","WEA.MusicPages.Twitter.domain.album.AM":"Apple Music","WEA.MusicPages.Born":"BORN","WEA.MusicPages.AppleMusic.PageDescriptionLine1.TopListings.ManyMore":"Listen to songs from the album @@albumName@@, including \"@@listing1@@\", \"@@listing2@@\", \"@@listing3@@\", and many more.","WEA.MusicPages.AppleMusic.Track.Social.PageDescriptionLine2.Subscription":"Free with Apple Music subscription.","WEA.MusicPages.AboutArtist":"About @@artistName@@","WEA.LocalNav.CTA.DownloadiTunes.url":"https://www.apple.com/itunes/download/","WEA.MusicPages.Preview.All":"Preview","WEA.Error.NativeMissing.iTunes.Download.text":"Download iTunes","WEA.Error.NativeMissing.iTunes.Download.link":"https://www.apple.com/itunes/download/","WEA.Common.FileSize.MB.AX.one":"1 megabyte","WEA.MusicPages.CTA.AM.Action":"Listen on","WEA.Common.More":"more","WEA.MusicPages.Preview.Video.AX":"Preview ‘@@videoName@@’ by @@artistName@@","WEA.MusicPages.Albums":"Albums","WEA.LocalNav.Title.iTunes":"iTunes Preview","WEA.MusicPages.TopAlbumsInGenre":"Top Albums in @@genreName@@","WEA.LocalNav.Title.Podcasts":"Podcasts Preview","WEA.Common.Meta.Twitter.domain.AM":"Apple Music","WEA.Common.SeeAll.Button":"See All","WEA.MusicPages.ListenersAlsoPlayed":"Listeners Also Played","WEA.Common.Ratings.zero":"No Ratings","WEA.LocalNav.CTA.DownloadiTunes":"Download iTunes","WEA.Common.TrackList.Track":"TITLE","WEA.MusicPages.TopAlbums":"Top Albums","WEA.Common.FileSize.KB":"@@count@@ KB","WEA.Error.Generic.Meta.PageKeywords":"Apple Music","WEA.MusicPages.FB.siteName.album.AM":"Apple Music","WEA.MusicPages.ExpectedReleaseDate":"Expected @@expectedReleaseDate@@","WEA.Common.Meta.Twitter.site.iTunes":"@iTunes","WEA.MusicPages.TotalSongs.other":"@@count@@ Songs","WEA.MusicPages.PageKeywords":"download, @@albumName@@, @@artistName@@, music, singles, songs, @@genreName@@, itunes music.","WEA.Error.NativeMissing.Other.LearnMore.link":"https://www.apple.com/itunes/download/","WEA.Common.AverageRating":"@@rating@@ out of @@ratingTotal@@","WEA.MusicPages.CTA.AM.AX":"Listen on Apple Music","WEA.MusicPages.AppleMusic.PageKeywords":"listen, @@albumName@@, @@artistName@@, music, singles, songs, @@genreName@@, streaming music, apple music","WEA.MusicPages.Twitter.domain.preorderAlbum.AM":"Apple Music","WEA.Error.Generic.Meta.PageDescription":"WEA.Error.Generic.Meta.PageDescription","WEA.MusicPages.AlsoAvailable.AM.AX":"View @@albumName@@ in Apple Music","WEA.Common.TogglePlay":"Play/Pause","WEA.MusicPages.AlsoAvailable.iTunes.AX":"View @@albumName@@ in iTunes","WEA.MusicPages.Track.Social.PageDescriptionLine2.TrackPrice":"for @@trackPrice@@.","WEA.Common.FileSize.byte.other":"@@count@@ bytes","WEA.Common.LearnMore":"Learn More","WEA.Error.Generic.Title.iTunes":"Connecting to the iTunes Store.","WEA.LocalNav.CTA.FreeTrial.url":"https://itunes.apple.com/subscribe?app=music","WEA.MusicPages.ArtistLink.AX":"View page for artist @@artistName@@","WEA.Common.TrackList.Time":"TIME","WEA.Common.TrackList.Album":"ALBUM","WEA.MusicPages.AppleMusic.PageDescriptionLine1.TopListings.Two":"Listen to songs from the album @@albumName@@, including \"@@listing1@@\", and \"@@listing2@@\".","WEA.MusicPages.CTA.AM.Eyebrow":"Listen On:","WEA.MusicPages.Riaa.Explicit":"Explicit","WEA.Error.Generic.Title":"Connecting to Apple Music","WEA.MusicPages.MoreByArtist":"More By @@artistName@@","WEA.MusicPages.Twitter.domain.preorderAlbum.iTunes":"iTunes","WEA.Common.Close":"Close","WEA.MusicPages.Twitter":"TWITTER","WEA.MusicPages.AppleMusic.PageDescriptionLine1.TopListings.One":"Listen to songs from the album @@albumName@@, including \"@@listing1@@\".","WEA.MusicPages.Twitter.domain.album.iTunes":"iTunes","WEA.Common.Meta.FB.siteName.AM":"Apple Music","WEA.MusicPages.TopMusicVideos":"Top Music Videos","WEA.Common.Meta.Twitter.domain.iTunes":"iTunes","WEA.Common.TrackList.Artist":"ARTIST","WEA.Common.Hours.one":"1 Hour","WEA.Error.NativeMissing.Other.iTunes":"Get iTunes on iOS, Android, Mac, and Windows","WEA.MusicPages.Twitter.AX":"Go to Twitter user @@handle@@.","WEA.MusicPages.CTA.AM.App":"Apple Music","WEA.MusicPages.CTA.iTunes.Action":"View in","WEA.MusicPages.CTA.iTunes.AX":"View in iTunes","WEA.MusicPages.TopSongs":"Top Songs","WEA.MusicPages.FB.siteName.preorderAlbum":"iTunes","WEA.MusicPages.Formed":"FORMED","WEA.Common.Minutes.one":"1 Minute","WEA.Common.SeeAll.Title.Item":"@@itemName@@ - @@productName@@ - @@sectionTitle@@","WEA.Error.Generic.Subtitle":"If you don’t have iTunes, @@downloadLink@@. If you have iTunes and it doesn’t open automatically, try opening it from your dock or Windows task bar.","WEA.Common.Hours.other":"@@count@@ Hours","WEA.MusicPages.SimilarArtists":"Similar Artists","WEA.Common.SeparatorGeneric":"@@string1@@, @@string2@@","WEA.MusicPages.Twitter.site.album.AM":"@AppleMusic","WEA.Common.FileSize.MB":"@@count@@ MB","WEA.MusicPages.CTA.iTunes.App":"iTunes","WEA.MusicPages.Genre":"GENRE","WEA.MusicPages.Twitter.site.preorderAlbum.iTunes":"@iTunes","WEA.Common.Meta.Twitter.site.AM":"@appleMusic","WEA.Common.Meta.FB.siteName.iTunes":"iTunes","WEA.MusicPages.FB.siteName.preorderAlbum.AM":"Apple Music","WEA.MusicPages.PageDescriptionLine2.TrackPrice":"Songs start at @@cheapestTrackPrice@@.","WEA.Error.Generic.Subtitle.DownloadLink.Text":"download it for free","WEA.Common.Released":"Released: @@releaseDate@@","WEA.LocalNav.Title.AppStore":"App Store Preview","WEA.MusicPages.TopSongsBy":"Top Songs by @@artistName@@","WEA.MusicPages.Track.Social.PageDescriptionLine1":"Preview, buy, and download the song \"@@trackName@@.\" from the album @@albumName@@","WEA.Common.Ratings.one":"1 Rating","WEA.MusicPages.TopMusicVideosBy":"Top Music Videos by @@artistName@@","WEA.MusicPages.Preview.Song.AX":"Preview \"@@songName@@\" by @@artistName@@","WEA.Error.NativeMissing.iTunes.Title":"We could not find iTunes on your computer.","WEA.LocalNav.Title.iBooks":"iBooks Store Preview","WEA.MusicPages.Preview.Pause.AX":"Pause current preview","WEA.MusicPages.EditorsNotes":"EDITORS’ NOTES","WEA.LocalNav.Title.AM":"Apple Music Preview","WEA.Common.Yes":"Yes","WEA.Error.NativeMissing.Other.AM":"Get Apple Music on iOS, Android, Mac, and Windows","WEA.MusicPages.Website.AX":"Go to official website for @@artistName@@.","WEA.MusicPages.CustomerReviews":"Customer Reviews","WEA.MusicPages.AppleMusic.PageDescriptionLine1.TopListings.Three":"Listen to songs from the album @@albumName@@, including \"@@listing1@@\", \"@@listing2@@\", and \"@@listing3@@\".","WEA.Error.NativeMissing.AM.Subtitle":"You need iTunes to use Apple Music","WEA.Common.SeeAll.Title.Product":"@@artistName@@ — @@sectionTitle@@","WEA.MusicPages.TrackList.Separator":"@@string1@@ - @@string2@@","WEA.Common.Minutes.other":"@@count@@ Minutes","WEA.Common.FileSize.KB.AX.one":"1 kilobyte","WEA.MusicPages.Preview.Resume.AX":"Continue playing current preview","WEA.Common.FileSize.GB":"@@count@@ GB","WEA.MusicPages.PageDescriptionLine1.TopListings.Two":"Preview, buy, and download songs from the album @@albumName@@, including \"@@listing1@@\", and \"@@listing2@@\".","WEA.MusicPages.Riaa.Clean":"WEA.MusicPages.Riaa.Clean","WEA.MusicPages.Twitter.site.album.iTunes":"@iTunes","WEA.Common.FileSize.GB.AX.other":"@@count@@ gigabytes","WEA.MusicPages.Origin":"ORIGIN","WEA.MusicPages.PageDescriptionLine1.TopListings.ManyMore":"Preview, buy, and download songs from the album @@albumName@@, including \"@@listing1@@\", \"@@listing2@@\", \"@@listing3@@\", and many more.","WEA.Common.FileSize.GB.AX.one":"1 gigabyte","WEA.MusicPages.TotalSongs.one":"1 Song","WEA.Common.DateFormat":"ll","WEA.MusicPages.AppleMusic.PageDescriptionLine2.TrackPrice":"Songs start at @@cheapestTrackPrice@@.","WEA.MusicPages.FB.siteName.preorderAlbum.iTunes":"iTunes","WEA.Common.Related":"Related","WEA.MusicPages.AlsoAvailable.AM":"Also Available on Apple Music","WEA.MusicPages.FB.siteName.album.iTunes":"iTunes","WEA.MusicPages.AppleMusic.PageDescriptionLine2.AlbumPrice":"Buy the album for @@formattedPrice@@.","WEA.MusicPages.FB.siteName.album":"iTunes","WEA.LocalNav.Title.MAS":"Mac App Store Preview","WEA.MusicPages.MasteredForiTunes.AX":"Mastered for iTunes","WEA.MusicPages.AppleMusic.Track.Social.title":"\"@@trackName@@\" from @@albumName@@ by @@artistName@@ on iTunes","WEA.MusicPages.Twitter.site.preorderAlbum.AM":"@AppleMusic","WEA.Common.View":"VIEW","WEA.Error.Generic.Meta.PageKeywords.iTunes":"iTunes Store","WEA.MusicPages.PageDescriptionLine2.AlbumPrice":"Buy the album for @@formattedPrice@@.","WEA.Error.Generic.Subtitle.DownloadLink.URL":"http://www.apple.com/itunes/download/","WEA.MusicPages.Twitter.site.album":"@iTunes","WEA.Common.FileSize.MB.AX.other":"@@count@@ megabytes","WEA.MusicPages.ListenersAlsoBought":"Listeners Also Bought","WEA.MusicPages.Instagram":"INSTAGRAM","WEA.MusicPages.PageDescriptionLine1.TopListings.One":"Preview, buy, and download songs from the album @@albumName@@, including \"@@listing1@@\"."}}</script><script type="fastboot/shoebox" id="shoebox-global-elements">{"isLoaded":true}</script>
+
+    <script src="https://web-experience.itunes.apple.com/assets/vendor-9352168e36317224f5464f6013635942.js"></script>
+    <script src="https://web-experience.itunes.apple.com/assets/web-experience-app-850364db6b720971dc26c7b2732ba5b6.js"></script>
+
+    
+  </body>
+</html>
