@@ -1,0 +1,197 @@
+print("Hello, world")
+var myVariable = 42     // variable (can't be nil)
+let π = 3.1415926       // constant
+let (x, y) = (10, 20)   // x = 10, y = 20
+let explicitDouble: Double = 1_000.000_1    // 1,000.0001
+let label = "some text " + String(myVariable)   // Casting
+let piText = "Pi = \(π)"    // String interpolation
+var optionalString: String? = "optional"    // Can be nil
+optionalString = nil
+
+/* Did you know /* you can nest multiline comments */ ? */
+
+var x = readLine()!     //Assumes 56 is in Input
+print("User entered " + x)      // Displays "User entered 56"
+
+
+/*### ARRAYS ###*/
+
+// Array
+var shoppingList = ["catfish", "water", "lemons"]
+shoppingList[1] = "bottle of water"     // update
+print(shoppingList.count)   // size of array (3)
+shoppingList.append("eggs")
+shoppingList += ["Milk"]
+
+// Array slicing
+var fibList = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 5]
+print(fibList[4..<6]) // [3, 5]. Note: the end range value is exclusive
+print(fibList[0..<(fibList.endIndex-1)]) // all except last item
+// Subscripting returns the Slice type, instead of the Array type.
+// You may need to cast it to Array in order to satisfy the type checker
+print(Array(fibList[0..<4]))
+
+// Variants of creating an array. All three are equivalent.
+var emptyArray1 = [String]()
+var emptyArray2: [String] = []
+var emptyArray3: [String] = [String]()
+
+
+/*### DICTIONARIES ###*/
+
+// Dictionary
+var occupations = [
+"Malcolm": "Captain",
+"kaylee": "Mechanic"
+]
+occupations["Jayne"] = "Public Relations"
+var emptyDictionary = Dictionary<String, Float>()
+
+
+/*### CONTROL FLOW ###*/
+
+// for loop (array)
+let myArray = [1, 1, 2, 3, 5]
+for value in myArray {
+    if value == 1 {
+        print("One!")
+    } else {
+        print("Not one!")
+    }
+}
+
+// for loop (dictionary)
+var dict = [
+    "name": "Steve Jobs",
+    "title": "CEO",
+    "company": "Apple"
+]
+for (key, value) in dict {
+    print("\(key): \(value)")
+}
+
+// for loop (range)
+for i in -1...1 { // [-1, 0, 1]
+    print(i)
+}
+// use .. to exclude the last number
+
+// for loop (ignoring the current value of the range on each iteration of the loop)
+for _ in 1...3 {
+    // Do something three times.
+}
+
+// while loop
+var i = 1
+while i < 1000 {
+    i *= 2
+}
+
+// Switch
+let vegetable = "red pepper"
+switch vegetable {
+    case "celery":
+        let vegetableComment = "Add some raisins and make ants on a log."
+    case "cucumber", "watercress":
+        let vegetableComment = "That would make a good tea sandwich."
+    default: // required (in order to cover all possible input)
+        let vegetableComment = "Everything tastes good in soup."
+}
+
+/*### FUNCTIONS ###*/
+
+//Functions are a first-class type, meaning they can be nested in functions and can be passed around
+
+// Function that returns a String
+func greet(name: String, day: String) -> String {
+    return "Hello \(name), today is \(day)."
+}
+print(greet(name:"Bob", day:"Tuesday"))
+
+
+// Function that takes variable number of arguments, collecting them into an array
+func setup(numbers: Int...) {
+    print(numbers.count)
+}
+setup(numbers:5, 16, 38)
+
+// Nested functions can organize code that is long or complex
+func printWelcomeMessage() -> String {
+    var y = "Hello,"
+    func add() {
+    y += " world"
+}
+add()
+    return y
+}
+print(printWelcomeMessage()) // Hello world
+
+
+/*### CLOSURES ###*/
+
+var numbers = [1, 2, 3, 4, 5]
+var output=numbers.map({
+    (number: Int) -> Int in
+    let result = 3 * number
+    return result
+})
+print(output)
+
+// When the type is known, like above, we can do this
+var numbers = [1, 2, 6]
+numbers = numbers.map({ number in 3 * number })
+print(numbers) // [3, 6, 18]
+
+
+/*### CLASSES ###*/
+
+// A parent class of Square
+class Shape {
+        init() {
+    }
+
+    func getArea() -> Int {
+        return 0;
+    }
+}
+
+// A simple class `Square` extends `Shape`
+class Square: Shape {
+    var sideLength: Int
+
+    // Custom getter and setter property
+    var perimeter: Int {
+        get {
+            return 4 * sideLength
+        }
+        set {
+            sideLength = newValue / 4
+        }
+    }
+
+    init(sideLength: Int) {
+        self.sideLength = sideLength
+        super.init()
+    }
+
+    func shrink() {
+        if sideLength > 0 {
+            sideLength-=1
+        }
+    }
+
+    override func getArea() -> Int {
+        return sideLength * sideLength
+    }
+}
+
+var mySquare = Square(sideLength: 5)
+print(mySquare.getArea()) // 25
+mySquare.shrink()
+print(mySquare.sideLength) // 4
+
+
+
+
+
+
