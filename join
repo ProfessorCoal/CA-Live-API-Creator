@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title> 
+      Register your Timely account
+    </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Ja8jSlzqBFUg4nQ82PbJF3QnLmhF5hnN5kn3uEDhk/BliI52l2lzviCRaAGg2rkOSMGI5hKOqn8INM1ENjrW6g==" />
+<link rel="shortcut icon" type="image/x-icon" href="https://d1vbcromo72rmd.cloudfront.net/assets/favicon-e7c15c942b1e90e79f393d5e2fc3776ab695e9f5a30a991f808cc740a063e420.ico" />
+<link rel="stylesheet" media="screen" href="https://d1vbcromo72rmd.cloudfront.net/assets/registration-f40d5f7796cefc73f137d51c539889230491e931ec6d51aaf05beaab80583f94.css" />
+<!--[if lt IE 9]>
+      <link rel="stylesheet" media="screen" href="https://d1vbcromo72rmd.cloudfront.net/stylesheets/ie9.css" />
+    <![endif]-->
+</head>
+<body class='unloaded'>
+<div id="wrapper">
+<div class="top_wrapper">
+<div class="header">
+<img src="/assets/footer_logo@2x.png" width="80" height="21" class="retina" />
+<h1><strong>Create a new account</strong></h1>
+</div>
+</div>
+<div class="header_fader_wrapper">
+<div class="fade one"></div>
+<div class="fade two"></div>
+<div class="fade three"></div>
+<div class="fade four"></div>
+<div class="fade five"></div>
+<div class="fade six"></div>
+</div>
+<div id="content_wrapper" class="register">
+<div class="clear"></div>
+<div id="inner_content_wrapper">
+<div style="width: 600px;" id="content">
+<form class="new_registration_form" id="new_registration_form" action="/registration" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Y0i2q/dSdW6WcJIcoI0iAQ9U4/tndHPjlAifAWR2xw0jbxuXPNEChZYDjiHYoVIYM7JFdTAcwFF6daX9Eq2CFw==" />
+<table cellspacing="0" cellpadding="1">
+<tbody>
+<tr>
+<td class="label">Full Name*</td>
+<td>
+<div class="input_container">
+<input class="input" autofocus="autofocus" type="text" name="registration_form[name]" id="registration_form_name" />
+</div>
+</td>
+</tr>
+<tr>
+<td class="label">Work Email*</td>
+<td>
+<div class="input_container">
+<input class="input" id="email" type="text" name="registration_form[email]" />
+</div>
+</td>
+</tr>
+<tr class="small">
+<td class="label"></td>
+<td>This will also be your username. E.g. "<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="264c474b435566444948420845494b">[email&#160;protected]</a>".</td>
+</tr>
+<tr>
+<td class="label">Password*</td>
+<td>
+<div class="input_container">
+<input class="input" id="password" type="password" name="registration_form[password]" />
+</div>
+</td>
+</tr>
+<tr class="small">
+<td class="label"></td>
+<td>All symbols are allowed. Minimum 8 characters.</td>
+</tr>
+<tr>
+<td class="label">Company Name*</td>
+<td>
+<div class="input_container">
+<input type="text" name="registration_form[company_name]" id="registration_form_company_name" />
+</div>
+</td>
+</tr>
+<tr>
+<td class="label">Company Size*</td>
+<td>
+<div class="input_container">
+<select name="registration_form[company_size]" id="registration_form_company_size"><option value="Freelancer">Freelancer</option>
+<option value="2-9">2-9</option>
+<option value="10-49">10-49</option>
+<option value="50+">50+</option></select>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<input type="hidden" name="user_property[utm_source]" id="user_property_utm_source" />
+<input type="hidden" name="user_property[utm_medium]" id="user_property_utm_medium" />
+<input type="hidden" name="user_property[utm_campaign]" id="user_property_utm_campaign" />
+<input type="hidden" name="user_property[utm_content]" id="user_property_utm_content" />
+<input type="hidden" name="user_property[initial_utm_source]" id="user_property_initial_utm_source" />
+<input type="hidden" name="user_property[initial_utm_medium]" id="user_property_initial_utm_medium" />
+<input type="hidden" name="user_property[initial_utm_campaign]" id="user_property_initial_utm_campaign" />
+<input type="hidden" name="user_property[initial_utm_content]" id="user_property_initial_utm_content" />
+<input type="hidden" name="registration_form[campaign]" id="registration_form_campaign" />
+<input type="hidden" name="registration_form[plan]" id="registration_form_plan" />
+<input type="hidden" name="segment_anonymous_id" id="segment_anonymous_id" />
+<p style="margin: 0 0 5px 181px; font-size:13px">
+By clicking <strong>Start my free trial</strong> you agree to the
+<a href="https://timelyapp.com/terms_of_service.html" target="_blank">Terms of Service.</a>
+</p>
+<div class="create-account">
+<input type="submit" name="commit" value="Start my free trial" class="globalbutton spinner" disable_with="Creating Account. Please Wait" data-disable-with="Start my free trial" />
+<div class="spinner-container"></div>
+</div>
+<div class="clear"></div>
+</form> </div>
+<div class="clear"></div>
+</div> 
+<p class="copyright">Copyright &copy; 2017 <a href="http://timelyapp.com" target="_blank">Timely AS</a> - All rights reserved</p>
+</div> 
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/af2821b0/cloudflare-static/email-decode.min.js"></script><script src="https://d1vbcromo72rmd.cloudfront.net/assets/registration-037c37fbaf80039eabf0318000c35b2a8ef980f29664d1e940b125c393e5053f.js"></script>
+<script type="text/javascript">
+  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.1.0";
+    analytics.load("RWbW21NElGVCcZscKgHPV9mXzSvHkUnS");
+  }}();
+</script>
+<script type="text/javascript">
+    console.log('Registration New');
+    analytics.page("Web", "Registration New");
+  </script>
+</body>
+</html>
